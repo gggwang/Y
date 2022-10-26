@@ -1028,6 +1028,25 @@ C芒果4kTV,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?se
 河源公共,http://fxhack.f3322.org:8000/udp/239.253.43.214:5146
 南方卫视,http://39.135.32.24:6610/000000001000/1000000002000011619/1.m3u8?xtkg?zguangd
 广东珠江,http://39.135.32.24:6610/000000001000/1000000004000011655/1.m3u8?xtkg?zguangd
+广东珠江,http://120.84.96.50:808/hls/122/index.m3u8
+广东珠江,http://gxfrg007.8800.org:8282/tsfile/live/1058_1.m3u8
+广东珠江,http://120.196.218.201:808/hls/100/index.m3u8
+广东珠江,http://v2.91kds.cn/c9/jdtv.m3u8?fmt=hls&id=gdzj&auth=rinimabi
+广东珠江,http://120.84.96.71:808/hls/122/index.m3u8
+广东珠江,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
+ 广东珠江,http://120.84.96.161:808/hls/122/index.m3u8
+广东珠江,http://120.84.96.74:808/hls/122/index.m3u8
+广东珠江,http://218.17.216.102:9901/tsfile/live/1001_1.m3u8
+广东珠江,http://120.132.122.244:18081/hls/1/index.m3u8
+广东珠江,http://shazui.8866.org:800/hls/22/index.m3u8
+广东珠江,http://link.sczhgx.com:59845/hls/22/index.m3u8
+广东珠江,http://61.143.45.150:9901/tsfile/live/0018_1.m3u8
+广东珠江,http://1b6467f415.iok.la:9952/tsfile/live/1012_1.m3u8
+广东珠江,http://qwas.eatuo.com:9901/tsfile/live/1000_1.m3u8?fmt=ts2hls
+广东珠江,http://zb.688768.xyz/zubo/z.php?member=kikihdcn72&playurl=http://219.128.40.115:8888/udp/239.77.0.114:5146
+广东珠江经济台 FM97.4,http://live.xmcdn.com/live/252/64.m3u8
+广东珠江经济台 FM97.4,http://ls.qingting.fm/live/1259.m3u8
+
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zguangd
 南方卫视,http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8?zguangd
 南方卫视,http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8?zguangd
