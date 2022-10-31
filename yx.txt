@@ -467,7 +467,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 江西卫视[高清],http://beifeng.site:4000/udp/239.3.1.123:8164
 吉林卫视[高清],http://beifeng.site:4000/udp/239.3.1.240:8172
 
-❤️影视频道#genre#
+❤️影视频道,#genre#
 兴隆影视,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 江苏影视,http://183.207.248.13:80/PLTV/4/224/3221225937/index.m3u8#https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360
@@ -505,7 +505,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 云南影视,https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 昆明影视,http://wshls.live.migucloud.com/live/KYLNJWFD_C0/playlist.m3u8
 
-❤️北京地方#genre#
+❤️北京地方,#genre#
 纪实科教,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 冬奥纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
 北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8#http://pull.dayuntongzhou.com/live/tztv.m3u8?zbeid
@@ -525,7 +525,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 北京卡酷少儿,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
 房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8?zbeid
 
-❤️上海地方#genre#
+❤️上海地方,#genre#
 上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8#http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8?zshangd
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 上海纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225609/index.m3u8?fmt=ts2hls#http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
@@ -552,7 +552,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 金山电视台,http://live.mudu.tv/watch/4zbn2f.m3u8?zshangd
 金鹰纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221226198/index.m3u8?zhund#http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-jinyingjs/1.m3u8?zhund#http://124.232.231.246:6610/000000001001/201600020008/index.m3u8?A
 
-❤️天津地方#genre#
+❤️天津地方,#genre#
 宁河新闻,http://wshls.live.migucloud.com:80/live/RQXD0636_C0/playlist.m3u8#http://wshls.live.migucloud.com:80/live/RQXD0636_C0/playlist.m3u8?ztianjd
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8#http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
@@ -561,7 +561,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8?ztianjd
 武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
-❤️江苏地方#genre#
+❤️江苏地方,#genre#
 江苏城市,http://183.207.248.13:80/PLTV/4/224/3221225929/index.m3u8
 江苏教育,http://183.207.248.13:80/PLTV/4/224/3221225923/index.m3u8
 无锡新闻,http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8
@@ -664,7 +664,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
 赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8?zjiangsd
 
-❤️浙江地方#genre#
+❤️浙江地方,#genre#
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743#http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8?zzhed
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884#http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8?zzhed#http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed
 浙江教育,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
@@ -789,7 +789,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 镇海综合频道,http://pluslive.zhxww.net/channel1/sd/live.m3u8
 舟山嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 
-❤️安徽地方#genre#
+❤️安徽地方,#genre#
 安徽导视,http://agsj.appcoo.com:8000/agsj/test/index.m3u8#http://agsj.appcoo.com:8000/agsj/test/index.m3u8?zanhd
 安徽公共,http://121.51.249.45/live1.ahtv.cn/ahgg/hd/live.m3u8
 安徽影视,http://121.51.249.45/live4.ahtv.cn/yspd1/hd/live.m3u8
@@ -864,7 +864,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 利辛综合,http://linxinbf.fst1994.cn/live/xinwen.m3u8?zanhd
 利辛影,http://linxinbf.fst1994.cn/live/yingshi.m3u8?zanhd
 
-❤️广东地方#genre#
+❤️广东地方,#genre#
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935#https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
 广州综合,http://tv.ldlive.xyz/tv/gd/gztv.php?id=gzzh
 广州新闻,http://tv.ldlive.xyz/tv/gd/gztv.php?id=gzxw
@@ -892,7 +892,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 电白综合,http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8#http://gddb.chinashadt.com:1935/live/video1.stream/playlist.m3u8
 电白视窗,http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8
 
-❤️广西地方#genre#
+❤️广西地方,#genre#
 南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8#http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8?zguangxd
 梧州新闻综合,http://139.186.37.10/hoge/gxwztv-22.m3u8
 梧州公共频道,http://139.186.37.10/hoge/gxwztv-23.m3u8
@@ -932,7 +932,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 巴马综合,https://cdn.gdlive.gdmain.com/live/5ky6zx60.m3u8?zguangxd
 靖西综合,https://cdn.gdlive.gdmain.com/live/53xzybv5.m3u8?zguangxd
 
-❤️河北地方#genre#
+❤️河北地方,#genre#
 河北经济生活,http://live2.plus.hebtv.com/jjshx/hd/live.m3u8#http://live2.plus.hebtv.com/jjshx/hd/live.m3u8?zhebd
 河北少儿科教,http://live6.plus.hebtv.com/sekjx/hd/live.m3u8#http://live6.plus.hebtv.com/sekjx/hd/live.m3u8?zhebd
 河北公共,http://live7.plus.hebtv.com/hbggx/hd/live.m3u8#http://live7.plus.hebtv.com/hbggx/hd/live.m3u8?zhebd
@@ -980,7 +980,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd#http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8?zhebd
 滦平新闻频道,https://live.lpxrmtzx.com/live/wh.m3u8?zhebd
 
-❤️河南地方#genre#
+❤️河南地方,#genre#
 河南新闻,http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv6
 河南都市,http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv2#http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
 河南法治,http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv4
@@ -1013,7 +1013,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 偃师新闻频道,http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8?zhend
 沁阳新闻综合,http://live.qinyangtv.com:82/channel1/sd/live.m3u8?zhend
 
-❤️湖北地方#genre#
+❤️湖北地方,#genre#
 荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 仙桃新闻综合,http://221.233.242.239:280/live/71/playlist.m3u8#http://221.233.242.239:280/live/71/playlist.m3u8?zhubd
 荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1672502399-0-0-ab2f43952f7fcf1b2da0c3372ec7e0e5
@@ -1034,7 +1034,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 建始综合,http://jianshi-live21.cjyun.org/10094/s10094-jstv1.m3u8?auth_key=1672502399-0-0-7cab5b7dbbf6c1ce2c41ea828cc0ea3f
 郧阳新闻综合,http://58.19.198.159:2021/hls1.m3u8?zhubd
 
-❤️山东地方#genre#
+❤️山东地方,#genre#
 山东教育,http://39.135.138.59:18890/PLTV/88888888/224/3221225719/index.m3u8
 日照新闻综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8#http://live.rzw.com.cn/xwzh/sd/live.m3u8?shandd
 日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8#http://live.rzw.com.cn/kzpd/sd/live.m3u8?shandd
@@ -1070,7 +1070,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
-菏泽影,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
+菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
 潍坊新闻综合,http://sobeylingyun02pull.sobeylive.com/live/wf1pd.m3u8?shandd
 潍坊农业,http://sobeylingyun02pull.sobeylive.com/live/wf2pd.m3u8?shandd
 潍坊公共,http://sobeylingyun02pull.sobeylive.com/live/wf3pd.m3u8?shandd
@@ -1078,7 +1078,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 滨州公共,http://stream.bzcm.net/1/sd/live.m3u8?shandd
 岱岳综合,http://slvedio.slradio.cn/a935908a217711ea8bb000163e0e6522/4D6357B92240C088F3612E43E44B5F1D.m3u8?shandd
 
-❤️四川地方#genre#
+❤️四川地方,#genre#
 四川新闻,http://182.151.211.171:808/hls/52/index.m3u8
 四川科教,http://182.151.211.171:808/hls/56/index.m3u8#http://3017ugjo.live2.danghongyun.com/live/hls/4dc0e927160647a2bd585cb5495810be/3c2126c925204cddb74a3534b97e2765-1.m3u8#http://3017ugjo.live2.danghongyun.com:80/live/hls/4dc0e927160647a2bd585cb5495810be/3c2126c925204cddb74a3534b97e2765-1.m3u8?zsicd
 四川乡村,http://182.151.211.171:808/hls/57/index.m3u8
@@ -1204,7 +1204,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 北川电视一套,http://live.sctvcloud.com/live/bcgqlive.m3u8?zsicd
 盐亭综合,http://live.sctvcloud.com/live/yttv.m3u8?zsicd
 
-❤️重庆地方#genre#
+❤️重庆地方,#genre#
 重庆新闻,http://stream3.xiancity.cn/5/sd/live.m3u8
 精彩导视,http://zbxclive.cbg.cn:1935/app_2/ls_105.stream/playlist.m3u8
 北碚综合频道,http://222.178.181.121:12034/beibei01.m3u8
@@ -1231,7 +1231,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?zzhongqd
 北碚综合,http://222.178.181.121:12034/beibei01.m3u8?zzhongqd
 
-❤️湖南地方#genre#
+❤️湖南地方,#genre#
 湖南都市,http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2#http://124.232.231.246:6610/000000001001/201600020003/index.m3u8?A
 湖南经视,http://124.232.231.246:6610/000000001001/201600020002/index.m3u8?A
 湖南电影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
@@ -1292,7 +1292,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 张家界公共,http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8
 张家界新闻综合,http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
 
-❤️山西地方#genre#
+❤️山西地方,#genre#
 山西经济与科教,http://liveflash.sxrtv.com/live/sxfinance.m3u8#http://liveflash.sxrtv.com/live/sxfinance.m3u8?zshanxd
 山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8#http://liveflash.sxrtv.com/live/sxedu.m3u8?zshanxd
 山西公共,http://liveflash.sxrtv.com/live/sxpublic.m3u8#http://liveflash.sxrtv.com/live/sxpublic.m3u8?zshanxd
@@ -1344,7 +1344,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 万荣综合,http://pili-live-hls.217.i2863.com/i2863-217/live_217_867556.m3u8?zshanxd
 闻喜综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 
-❤️江西地方#genre#
+❤️江西地方,#genre#
 江西·吉安公共,http://stream.ijatv.com/jatv2/hd/live.m3u8
 江西·吉安综合,http://stream.ijatv.com/jatv1/hd/live.m3u8
 江西·吉州,http://218.204.153.158/10.m3u8
@@ -1367,7 +1367,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 东乡区综合频道,http://live.mudu.tv/watch/hnkexb.m3u8?zjiangxd
 永新电视一套,http://jxyx.chinashadt.com:2036/live/1002.stream/playlist.m3u8?zjiangxd
 
-❤️福建地方#genre#
+❤️福建地方,#genre#
 福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8#http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8?zfud
 福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8#http://live.zohi.tv/video/s10001-shpd-3/index.m3u8?zfud
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8#http://live.zohi.tv/video/s10001-sepd-4/index.m3u8?zfud
@@ -1401,7 +1401,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 石狮综合,http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8?zfud
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
 
-❤️陕西地方#genre#
+❤️陕西地方,#genre#
 西安新闻,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 西安白鸽,http://stream2.xiancity.cn/xatv2/sd/live.m3u8#http://stream2.xiancity.cn/xatv2/sd/live.m3u8?zhend
 西安丝路,http://stream2.xiancity.cn/xatv5/sd/live.m3u8#http://stream2.xiancity.cn/xatv5/sd/live.m3u8?zhend
@@ -1430,7 +1430,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 西和综合,https://play.kankanlive.com/live/1626051451895935.m3u8#https://play.kankanlive.com/live/1626051451895935.m3u8?zgand
 舟曲新闻综合,https://play.kankanlive.com/live/1631185650131909.m3u8
 
-❤️甘肃地方#genre#
+❤️甘肃地方,#genre#
 甘肃少儿,http://39.134.32.102:6610/270000001111/1110000327/index.m3u8?IASHttpSessionId=OTT
 甘南综合,http://pili-live-hls.hfmt.net/gntv/gnhytv.m3u8?zgand
 甘南藏语,http://pili-live-hls.hfmt.net/gntv/gnzytv.m3u8?zgand
@@ -1447,7 +1447,7 @@ CCTV-17农业农村[高清],http://beifeng.site:4000/udp/239.3.1.151:8144
 舟曲新闻,http://pili-live-hls.hfmt.net/gntv/zqtv.m3u8?zgand
 西峰综合,http://pili-live-rtmp.luan2.hfmt.net/luan2/xifeng/123456.m3u8?zgand
 
-❤️云南地方#genre#
+❤️云南地方,#genre#
 云南公共,https://hwapi.yunshicloud.com/62hdvf/227q43.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 云南都市,https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 云南娱乐,https://hwapi.yunshicloud.com/62hdvf/iq8639.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
@@ -1546,7 +1546,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 安顺新闻频道,https://player.juyun.tv/camera/64413134.m3u8
 金海湖电视台,http://pili-live-hls.jhh.ddcpc.cn/ddcpc-jhh/tv1050-1563865985.m3u8#http://pili-live-hls.jhh.ddcpc.cn/ddcpc-jhh/tv1050-1563865985.m3u8?zguizd
 
-❤️贵州地方#genre#
+❤️贵州地方,#genre#
 黔西南公共,http://live2.qxndt.com/ggpd/sd/live.m3u8
 黔西南综合,http://live2.qxndt.com/zhpd/sd/live.m3u8
 松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
@@ -1558,7 +1558,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 桃综艺,http://live.strmtzx.cn/stzy/sd/live.m3u8?zguizd
 罗甸综合,http://pili-live-rtmp.210.i2863.com/i2863-210/live_210_050252.m3u8
 
-❤️青海地方#genre#
+❤️青海地方,#genre#
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226195/index.m3u8?zqinghd
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
@@ -1575,7 +1575,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 贵南综合,http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8?zqinghd
 民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd
 
-❤️宁夏地方#genre#
+❤️宁夏地方,#genre#
 宁夏公共,http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6
 银川公共,http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8#http://www.ycen.com.cn/ycgg/sd/live.m3u8?zningxd
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8#http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
@@ -1584,7 +1584,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 银川生活,http://www.ycen.com.cn/ycxw/sd/live.m3u8?zningxd
 银川文体,http://www.ycen.com.cn/ycwt/sd/live.m3u8?zningxd
 
-❤️吉林地方#genre#
+❤️吉林地方,#genre#
 吉林新闻综合,http://stream1.jlntv.cn/xcpd/sd/live.m3u8?_upt=ed8b01841531576074#http://living.muzhifm.com/jilinshi/jl_v_zonghe.m3u8?auth_key=1683944014-0-0-727c3c424b12e5c4484b0e7cecfef774
 吉林乡村,http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020#http://stream1.jlntv.cn/xcpd/sd/live.m3u8#http://stream1.jlntv.cn/shpd/sd/live.m3u8#http://stream1.jlntv.cn/xcpd/sd/live.m3u8?zjild
 吉林山村,http://stream1.jlntv.cn/dspd/playlist.m3u8?_upt=a9a201ef1578416337
@@ -1630,7 +1630,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 朝阳教育,https://play.cytv01.cygbdst.com/live/jypdtv.m3u8?zliaond
 朝阳公共,https://play.cytv01.cygbdst.com/live/ggpdtv.m3u8?zliaond
 
-❤️新疆地方#genre#
+❤️新疆地方,#genre#
 可克达拉综合,http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8#http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8#http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8#http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
@@ -1663,7 +1663,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 兵团十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd
 兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
-内蒙古地方#genre#
+内蒙古地方,#genre#
 达茂综合频道,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162426298237692.m3u8
 固阳综合频道,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160861109294211.m3u8
 突泉综合频道,http://pili-live-hls.cyyapp2019.sobeylive.com/cyyapp2019/live162580132995542.m3u8
@@ -1689,7 +1689,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 固阳综合,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160861109294211.m3u8?zneimd
 克旗综合,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live159582155321721.m3u8?zneimd
 
-❤️黑龙江地方#genre#
+❤️黑龙江地方,#genre#
 哈尔滨新闻,http://stream.hrbtv.net/xwzh/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8#http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
