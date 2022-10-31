@@ -1663,7 +1663,8 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 兵团十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd
 兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
-内蒙古地方,#genre#
+
+❤️内蒙古地方,#genre#
 达茂综合频道,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162426298237692.m3u8
 固阳综合频道,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160861109294211.m3u8
 突泉综合频道,http://pili-live-hls.cyyapp2019.sobeylive.com/cyyapp2019/live162580132995542.m3u8
@@ -1706,7 +1707,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 哈尔滨影,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 甘南县综合,http://player.juyun.tv/camera/65362146.m3u8?zheild
 
-❤️地方频道,#genre#
+❤️地方未整理,#genre#
 广东,http://39.135.32.24:6610/000000001000/1000000001000028357/1.m3u8?xtkg?zguangd
 广东珠江,http://39.135.32.24:6610/000000001000/1000000004000011655/1.m3u8?xtkg?zguangd
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zguangd
@@ -2473,7 +2474,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 济宁图文,http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8?shandd
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
-菏泽影,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
+菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
 枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8?shandd#http://stream.zzgd.tv/1/sd/live.m3u8?shandd
 枣庄教育,http://stream.zztvzd.com/2/sd/live.m3u8?shandd#http://stream.zzgd.tv/2/sd/live.m3u8?shandd
 枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8?shandd#http://stream.zzgd.tv/3/sd/live.m3u8?shandd
@@ -3013,7 +3014,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 石家庄生活[720*576],http://60.10.167.88:808/hls/66/index.m3u8
 石家庄都市[720*576],http://60.10.167.88:808/hls/67/index.m3u8
 廊坊公共[1920*1080],http://60.10.167.88:808/hls/68/index.m3u8
-❤️未整理,#genre#
+❤️未整理频道,#genre#
 不定期维护,http://vodcdn.video.taobao.com/oss/ali-video/dcd97358c3e72377932aa883727320f9/video.m3u8#https://vd3.bdstatic.com/mda-mgciytzb45z6z8yj/1080p/cae_h264/1626183756603775947/mda-mgciytzb45z6z8yj.mp4
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
