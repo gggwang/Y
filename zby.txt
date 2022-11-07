@@ -366,10 +366,191 @@ CCTV17-农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/inde
 🐼测试频道,#genre#
 测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
 
+CHC-动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC-动作电影,https://epg.pm/stream/f3d65d008bc66bd394263b7d8985489002910477e6d56d7cfe4976801e851932.php
+CHC-动作电影,https://epg.pm/stream/8d820c6530d50aeb7e2ae0c5e5f454940306a0045be4970a2d193dc040c1d483.m3u8
+CHC-动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
+CHC-动作电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+CHC-动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+CHC-动作电影,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+CHC-动作电影,https://epg.pm/stream/6f1872fbeb3c9117a2674c0459a7ffa0f83498aea7c224d398b655135c7c4c91.m3u8
+CHC-动作电影,https://epg.pm/stream/1692c90fe245b480e8a336864b771d7d2e3c1aef07d2e5a80c880479cf0f1a59.m3u8
+CHC-动作电影,https://epg.pm/stream/aca5f272c5d85d6dbaff30e1b6643064801a871c121403bbbc447de160157916.m3u8
+CHC-动作电影,https://epg.pm/stream/13b6d6fc61f3346008f62b676447bd0f3c8dc1c93fdd565dc0b4cd19ccda2a9c.m3u8
+CHC-动作电影,https://epg.pm/stream/e2bdf2604729ece370cb236a544c7caf8896494f57ea5399da1ea614b47145cc.m3u8
+CHC-动作电影,https://epg.pm/stream/c5853ecc5c1f5e48a11ea7fbfbc08b28cfa4c04a0e5aaaf1044c50d5b498b7f5.m3u8
+CHC-动作电影,https://epg.pm/stream/f009eabbde075f8b69d7beaaf050513e7aa265ca7032a8b86da4580d81be7f29.m3u8
+CHC-动作电影,https://epg.pm/stream/b933c3e09b7c08d1ce45fc99e6d2183d63ba5bbe4ee741ebc49e288ff4aa6d92.php
+CHC-动作电影,https://epg.pm/stream/2641b14524b0d8ca229a60ec3d8ff93fbef59de2548474376542fac428d932ad.m3u8
+CHC-动作电影,https://epg.pm/stream/194b02f1babb443fef23d08f04f62b7023c423d2afab63d2064ebb28f95d0392.m3u8
+CHC-动作电影,https://epg.pm/stream/224575c01f70b930f8f8187577ed2cdbfcb6716729d1301169f86874de0461fe.m3u8
+CHC-动作电影,https://epg.pm/stream/e061bce573dc177b7dec349e23a1e0b38c5cfca5667dc5e1e3531ca9e9f6ca0f.m3u8
+CHC-动作电影,https://epg.pm/stream/1d4d1d804bb39abc7f3f84d54a1afe978465acbf67dd18e2a86d0124dc4e8d4f.m3u8
+CHC-动作电影,https://epg.pm/stream/5f49d263a8f75d6b5a22bf65b2319e994479af8aa4d091e3a77f986f94a25298.m3u8
+CHC-动作电影,https://epg.pm/stream/08dbf40d5214a87afe9702cf265c47540fb97c6afce2b1824a94710a9e72fdff.m3u8
+CHC-动作电影,https://epg.pm/stream/51c6440574a1d46ddbcd5b26b514e9ac662f7ec217203cd1e6bb7baf5fb96947.m3u8
+CHC-动作电影,https://epg.pm/stream/a442e249ce29016a1db0b09480e514f07a4017f3c41557abdd9110a9030d3f70.m3u8
+CHC-动作电影,https://epg.pm/stream/20bd0f383405b0f2ce318a4629d64c842fed5113f9148f398230a6a22c989f38.m3u8
+CHC-动作电影,https://epg.pm/stream/902f23fc1d841b5847e23b3091f78a5783e42dd7075409de88785712e2f7a860.m3u8
+CHC-动作电影,https://epg.pm/stream/a6a56c8a898176be2199c6f5c69ed69776be3546a8b0aa560ab724e7fa69788b.m3u8
+CHC-动作电影,https://epg.pm/stream/a1da3eff3713b1e27546cea5dd509a419ecaa73ca60f2c91aaa34416c9424bc3.m3u8
+CHC-动作电影,https://epg.pm/stream/83a6d48d922db0775f8b1ab214fb22bf345124c72e88d373ad81217017c9be59.m3u8
+CHC-动作电影,https://epg.pm/stream/2ba8273f392a9c90038fd3cc182e83ad1794e8bb2b3aa9c1e52708d5b0638f54.m3u8
+CHC-动作电影,https://epg.pm/stream/61a6ea50993d719a957b37872fc8f968ace276ea7dd54f93af871740136f18b2.m3u8
+CHC-动作电影,https://epg.pm/stream/4abcb3e6a2c86d1589bedbabd65f63c56cfd9d62cd405d366f4b96bfc2f48a06.m3u8
+CHC-动作电影,https://epg.pm/stream/6777b4fbe54af745df0efd3aa7eac35e3cab2ab7ffa7265855bfa4758037ad60.m3u8
+CHC-动作电影,https://epg.pm/stream/27796b917699725bda045805b4fe5486282fa3073e83ea910b55f3cf857f181d.m3u8
+CHC-动作电影,https://epg.pm/stream/f19b6f3a41a16aaf4b3f289f7393a4dbea922958ee3a28de105d35f2477a2f1e.m3u8
+CHC-动作电影,https://epg.pm/stream/4b62c7c07c10d41ac6c7880745e3c08b52d574a95226715865ae842617289746.m3u8
+CHC-动作电影,https://epg.pm/stream/e3c73069024cbac373ba54a1f385b7163ca179e59b970e3dc7879fd3fa446538.m3u8
+CHC-动作电影,https://epg.pm/stream/34cf43bfe6ca446cd3b7489d4f2e621ca679e23c1c39a2299c2f478ec7acd602.m3u8
+CHC-动作电影,https://epg.pm/stream/4f0ec020bee366b7868eb1045c6a8c2530d6b940605ce9f7fd1658f194a94895.m3u8
+CHC-动作电影,https://epg.pm/stream/fc3549cd58ae259cdac23e70d0853c255ac1bcc521e9a7854098c15c6a4211c6.m3u8
+CHC-动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1
+CHC-动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?
+CHC-动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1
+CHC-动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8?blog.ntnas.top
+CHC-动作电影,http://58.34.204.67:9901/tsfile/live/1005_1.m3u8
+CHC-动作电影,http://120.84.96.78:808/hls/31/index.m3u8
+CHC-高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
+CHC-高清电影,http://zhuji.sdrnwl.cn:9901/tsfile/live/1058_1.m3u8
+CHC-高清电影,http://223.241.197.199:1935/live/xinwen/playlist.m3u8
+CHC-高清电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+CHC-高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+CHC-高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
+CHC-高清电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1
+CHC-高清电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?
+CHC-家庭影院,http://live.lytv.net.cn/ggpd/sd/live.m3u8
+CHC-家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
+CHC-家庭影院,https://epg.pm/stream/bf295cd09e8ac9540e3b394502acbaac1fcbc3c4202b32bab7862d50a6198062.m3u8
+CHC-家庭影院,https://epg.pm/stream/b71130a0133f4394ee80d429f56858333c1641929ed17d7aa3acdc09c9bbe91c.m3u8
+CHC-家庭影院,https://epg.pm/stream/ad93412f7afd9b75cf3ed911c3bc2f183feee29a99bb7485532d1fbd89501689.m3u8
+CHC-家庭影院,https://epg.pm/stream/ce128bcf768e26ec9c4db91176487b849df305845fc415cb309a2ee16825a031.m3u8
+CHC-家庭影院,https://epg.pm/stream/244ce23d4fd6e9642e69e88f9e136d39b7be736b877332dda22fd98cdb95d4e3.m3u8
+CHC-家庭影院,https://epg.pm/stream/92f7acaa27b2aa3a25f1eb2ae53d453fd8e69834c4e127e102ca32e6979ee0f9.m3u8
+CHC-家庭影院,https://epg.pm/stream/99d926893059980c19d6c1b8683aa9e005ea88dc7519db463705af1bbd646b6b.m3u8
+CHC-家庭影院,https://epg.pm/stream/66eeef6fb5c69f5269da3026eef781e1c5c2359d84590d73e8c9ff22c31da530.m3u8
+CHC-家庭影院,https://epg.pm/stream/c82d486b65b738996511de04ee9e348f8be22e6db770329aa3d053485ca0990b.m3u8
+CHC-家庭影院,https://epg.pm/stream/2ef35e8b52594d3639a032cbac35c5fecef37f090a5f1968ac011c86f2abbc22.m3u8
+CHC-家庭影院,https://epg.pm/stream/8fd9f348407835f72a1cbda1b66d3cab9c3554b7ca7336d9355b9022743b8976.m3u8
+CHC-家庭影院,https://epg.pm/stream/86ebc0ab4381d6a6403a6245d7936851e66cb28654f9c13b7bed1b7503a1f58d.m3u8
+CHC-家庭影院,https://epg.pm/stream/d32f425f076d341a38075612b142c140d075f16b312b943247faa7e374c5460c.m3u8
+CHC-家庭影院,https://epg.pm/stream/789dd4b31a56693f3ddcaf4eb29570d3d88da3aef2222d6517159db383a85567.m3u8
+CHC-家庭影院,https://epg.pm/stream/0e4b350fc600cff168171add76b87f20a5d1a6cf1d4d7de62a47b7a1ebdf69b2.m3u8
+CHC-家庭影院,https://epg.pm/stream/3e9bd9db05744a62a262c58d9240de2aeb08ab905e4e9236f1fc2e3f2ea81adf.m3u8
+CHC-家庭影院,https://epg.pm/stream/de0600d66fb748f891c567add67bdfa382217a200c897b64646f14d076b1f4fe.m3u8
+CHC-家庭影院,https://epg.pm/stream/27581e44990152a4c3e53db9a549aec0c73b852bfa68de2554fe5ca6eddcfbe2.m3u8
+CHC-家庭影院,https://epg.pm/stream/a916b4bdb0a8ef0afe1635eb03db934795afaa99a157c3beac5381580f29fd1b.php
+CHC-家庭影院,https://epg.pm/stream/949cf740e3ebf2714f8ac9b18ec24a0a8a3b78636ee80dfc7784958a8deb0d99.m3u8
+CHC-家庭影院,https://epg.pm/stream/4c9a7fdc5c1a46882048db83e1eaa1b792373b7bcfa42be331e46bbd3a812f58.m3u8
+CHC-家庭影院,https://epg.pm/stream/c572fd552d51c909fc7543c05af9961973da1edc732a5e8d500d5889e3310e71.m3u8
+CHC-家庭影院,https://epg.pm/stream/7c0c059a51610ec3764a62ec8e15a3b1053514b6ae714383c1841a1869e02e21.m3u8
+CHC-家庭影院,https://epg.pm/stream/c92900be45b4087bed2d1af7ca57e1f47f0eb2f41b9bc629376ef4ca6d4a0221.m3u8
+CHC-家庭影院,https://epg.pm/stream/dc7fa6dfa29b13bb15a21edec120b1fa141b7d5e902e73540f77d97c553fb856.m3u8
+CHC-家庭影院,https://epg.pm/stream/ec962cdf42e6349e986dad0290908f0a833ec8949c88fdda0a6c6560d424db88.m3u8
+CHC-家庭影院,https://epg.pm/stream/c94a1fdc38f79ddff3bd1e828185b6182616429e14cf2756c93709659fddec13.m3u8
+CHC-家庭影院,https://epg.pm/stream/b66fbe8b9c0d876df7facbdbb1599bfa6ffab7ce7b1f4d5fe4a18b9e672e4d77.m3u8
+CHC-家庭影院,https://epg.pm/stream/938a89e5e463fd8bf2019e7a74678e422aed40028a153c34bc87bd65ad4cb69d.m3u8
+CHC-家庭影院,https://epg.pm/stream/ef0f221b2ff53022c6154d9282a6879d7a5a0cc88659896c0f9cec1216e5250c.m3u8
+CHC-家庭影院,https://epg.pm/stream/7454fff1d043d21c9bb5d0032cde52b07aa048f742b5d2c98a6ef905045eb900.m3u8
+CHC-家庭影院,https://epg.pm/stream/3a77bc7d6564ec5a6ab3887ae1ecc0b5edcd81505715bdcff10d42f732f6b041.m3u8
+CHC-家庭影院,https://epg.pm/stream/b6e6ea9f9ccca3176d08e261abdea6922f1a89fa1d4a4a4ff88b0652d481541f.m3u8
+CHC-家庭影院,https://epg.pm/stream/6000ee6291db5a1ee77f71c48ab52641fef503db4c101909872a5aa29d78cd3b.m3u8
+CHC-家庭影院,https://epg.pm/stream/f2ad3f96715dfee1585c633f773e5db0b0129a2e4b65ca83bad51ab44fc7a035.m3u8
+CHC-家庭影院,http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8
+CHC-家庭影院,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
+CHC-家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8?blog.ntnas.top
+CHC-家庭影院,http://58.34.204.67:9901/tsfile/live/1001_1.m3u8
+CHC-家庭影院,http://120.84.96.78:808/hls/36/index.m3u8
+CNC-新华中文,http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
+CNC-新华中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
+CNC-新华中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+CNC-新华中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+CNC-新华中文,http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8
+CNC-新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+CNC-新华英文,http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8
+CNC-新华英文,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CNC-新华英文,http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
+CNC-新华英文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225693/index.m3u8
+CNC-新华英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+CEC1-汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CEC1-汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8?$全网标清576P
+CEC2-国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC2-国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8?$全网标清576P
+CEC3-国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CEC3-国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8?$全网标清576P
+CEC4-国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+CETV1-教育综合,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
+CETV1-教育综合,http://111.59.63.32:9901/tsfile/live/1024_1.m3u8
+CETV1-教育综合,http://39.135.138.59:18890/PLTV/88888910/224/3221225661/index.m3u8
+CETV1-教育综合,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+CETV1-教育综合,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240370_1/encoder/0/playlist.m3u8?
+CETV1-教育综合,http://183.63.15.42:9901/tsfile/live/0013_1.m3u8
+CETV1-教育综合,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
+CETV1-教育综合,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240302_1/playlist.m3u8?CONTENTID=00000110240302_1
+CETV1-教育综合,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240302_1/playlist.m3u8?CONTENTID=00000110240302_1
+CETV1-教育综合,http://39.135.138.58:18890/PLTV/88888888/224/3221225661/index.m3u8
+CETV1-教育综合,http://39.135.138.58:18890/ysten-businessmobile/live/jiaoyutv/1.m3u8
+CETV1-教育综合,http://111.20.35.103:6610/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+CETV1-教育综合,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225563/2/index.m3u8?fmt=ts2hls
+CETV2-教育教学,http://111.20.35.103:6610/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+CETV4-空中课堂,http://39.135.138.58:18890/PLTV/88888888/224/3221225937/index.m3u8
+CETV4-空中课堂,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-jiaoyutv4/1.m3u8
+CETV4-空中课堂,http://111.20.35.103:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+CETV4-空中课堂,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8
+CETV4-空中课堂,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225969/index.m3u8?fmt=ts2hls
+CCTV-第一剧场,http://218.17.216.102:9901/tsfile/live/1072_1.m3u8
+CCTV-怀旧剧场,http://218.17.216.102:9901/tsfile/live/1069_1.m3u8
+CCTV-怀旧剧场,http://60.10.167.88:808/hls/56/index.m3u8
+CCTV-风云剧场,http://218.17.216.102:9901/tsfile/live/1070_1.m3u8
+CCTV-风云剧场,http://42.176.185.28:9901/tsfile/live/1022_1.m3u8
+CCTV-风云剧场,http://60.10.167.88:808/hls/57/index.m3u8
+CCTV-风云音乐,http://218.17.216.102:9901/tsfile/live/1073_1.m3u8
+CCTV-风云足球,http://218.17.216.102:9901/tsfile/live/1065_1.m3u8
+CCTV-风云足球,http://60.10.167.88:808/hls/55/index.m3u8
+CCTV-央视台球,http://218.17.216.102:9901/tsfile/live/1066_1.m3u8
+CCTV-兵器科技,http://42.176.185.28:9901/tsfile/live/1034_1.m3u8
+CCTV-兵器科技,http://218.17.216.102:9901/tsfile/live/1027_1.m3u8
+CCTV-兵器科技,http://218.17.216.102:9901/tsfile/live/1068_1.m3u8
+CCTV-兵器科技,http://222.240.82.92:9901/tsfile/live/0002_1.m3u8
+CCTV-电视指南,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-电视指南,http://218.17.216.102:9901/tsfile/live/1064_1.m3u8
+CCTV-移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+CCTV-央视文化精品,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
+CCTV-央视文化精品,http://218.17.216.102:9901/tsfile/live/1071_1.m3u8
+CCTV+ Channel 1,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
+
+CGTN-英语新闻,http://live.cgtn.com/500/prog_index.m3u8
+CGTN-英语新闻,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN-英语新闻,http://live.cgtn.com/1000/prog_index.m3u8?$标清576P
+CGTN-纪录国际,https://livedoc.cgtn.com/1000d/prog_index.m3u8?$标清576P
+CGTN-纪录国际,http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+CGTN-纪录国际,https://livedoc.cgtn.com/1000d/prog_index.m3u8
+CGTN-纪录国际,http://60.10.167.88:808/hls/16/index.m3u8
+CGTN-纪录国际,http://39.135.138.58:18890/PLTV/88888888/224/3221225747/index.m3u8
+CGTN-纪录国际,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240326_1/encoder/0/playlist.m3u8?
+CGTN-纪录国际,http://60.10.167.88:808/hls/15/index.m3u8
+CGTN-纪录国际,https://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN-纪录国际,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?
+CGTN-纪录国际,http://live.cgtn.com/1000/prog_index.m3u8?$全网标清576P
+CGTN-纪录国际,https://livedoc.cgtn.com/1000d/prog_index.m3u8?$全网标清576P
+CGTN-法语国际,http://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN-法语国际,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240365_1/encoder/0/playlist.m3u8?
+CGTN-法语国际,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN-阿拉伯语国际,http://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN-阿拉伯语国际,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240367_1/encoder/0/playlist.m3u8?
+CGTN-阿拉伯语国际,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN-俄罗斯语国际,http://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN-俄罗斯语国际,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240369_1/encoder/0/playlist.m3u8?
+CGTN-俄罗斯语国际,http://livedoc.cgtn.com/1000d/prog_index.m3u8
+CGTN-西班牙语国际,http://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN-西班牙语国际,http://livees.cgtn.com/500e/prog_index.m3u8
+中央新影-发现之旅,http://111.59.189.40:8445/tsfile/live/1019_1.m3u8
 
 
 
----20221010标记
+---20221107标记
 
 🐼超清频道,#genre#
 测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
