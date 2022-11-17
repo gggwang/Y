@@ -1587,6 +1587,17 @@ TVB J2[1280*720],https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
 广东生活,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8?zguangd
+
+广东珠江,http://218.17.216.102:9901/tsfile/live/1001_1.m3u8
+广东公共,http://218.17.216.102:9901/tsfile/live/1003_1.m3u8
+广东体育,http://218.17.216.102:9901/tsfile/live/1004_1.m3u8
+广东经济,http://218.17.216.102:9901/tsfile/live/1006_1.m3u8
+大湾区卫视,http://218.17.216.102:9901/tsfile/live/1007_1.m3u8
+广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
+深圳公共,http://218.17.216.102:9901/tsfile/live/1042_1.m3u8
+深圳都市,http://218.17.216.102:9901/tsfile/live/1043_1.m3u8
+深圳电视剧,http://218.17.216.102:9901/tsfile/live/1057_1.m3u8
+深圳财经,http://218.17.216.102:9901/tsfile/live/1089_1.m3u8
 深圳东部,https://lglivepull.sznews.com/live/2646.m3u8?zguangd
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
 韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
@@ -5327,7 +5338,7 @@ NewTV电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 黑龙江-雪乡梦幻家园观景台,http://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
 
 
-🚧测试,#genre#
+🚧频道测试专线_2022,#genre#
 测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
 🚀频道更新通知,#genre#
 ♥分享频道,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
