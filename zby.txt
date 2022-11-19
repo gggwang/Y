@@ -1776,6 +1776,14 @@ TVB J2,https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
 胶州生活,rtmp://jsylivealone.iqilu.com/jiaozhou/jiaozhou_tv02
 平度新闻,rtmp://jsylivealone.iqilu.com/pingdu/pingdu_tv01
 平度生活,rtmp://jsylivealone.iqilu.com/pingdu/pingdu_tv02
+
+淄博新闻,http://www.253iptv.ga/kumaozb/hoge.php?id=sdzbxw
+淄博都市,http://www.253iptv.ga/kumaozb/hoge.php?id=sdzbds
+淄博科教,http://www.253iptv.ga/kumaozb/hoge.php?id=sdzbkj
+淄博生活,http://www.253iptv.ga/kumaozb/hoge.php?id=sdzbsh
+淄博公共,http://www.253iptv.ga/kumaozb/hoge.php?id=sdzbgg
+
+
 张店综合,rtmp://jsylivealone.iqilu.com/zhangdian/zhangdian_tv01
 张店图文,rtmp://jsylivealone.iqilu.com/zhangdian/zhangdian_tv02
 周村新闻,rtmp://jsylivealone.iqilu.com/zhoucun/zhoucun_tv01
