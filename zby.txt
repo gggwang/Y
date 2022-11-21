@@ -1412,7 +1412,7 @@ TVB J2,https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
 溧水影院,http://live.lsrmw.cn/ysyl/sd/live.m3u8?zjiangsd
 铜山综合,http://stream.tstvxmt.com/tstv1/sd/live.m3u8?zjiangsd
 铜山三农,http://stream.tstvxmt.com/ts3/sd/live.m3u8?zjiangsd
-宜兴新闻http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd
+宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd
 宜兴紫砂,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8?zjiangsd
 淮阴综合,http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8?zjiangsd
 淮阴影院,http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/hyys.m3u8?zjiangsd
@@ -3113,7 +3113,7 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 龙门镖局,http://txtest-xp2p.p2p.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.xs
 武林外传,http://txtest-xp2p.p2p.huya.com/src/1099531752788-1099531752788-86436268371607552-2199063629032-10057-A-0-1.xs
 医馆笑传,http://txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.xs
-医馆笑传http://txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.xs
+医馆笑传,http://txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.xs
 
 活佛济公,http://txtest-xp2p.p2p.huya.com/src/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.xs
 四大才子,http://txtest-xp2p.p2p.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.xs
@@ -3875,8 +3875,6 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 ---20221115标记
 
-🐼咪咕频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
 
 🐼华数频道,#genre#
 测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
@@ -4055,7 +4053,7 @@ SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u
 
 🪐NewTV频道,#genre#
 测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-NewTV嗨看暑假,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
+
 
 NewTV军旅剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221225669/index.m3u8
 NewTV军旅剧场,http://39.135.41.243/cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
@@ -4075,6 +4073,8 @@ NewTV家庭剧场,http://39.135.41.245/cdnrrs.gx.chinamobile.com/PLTV/88888888/2
 NewTV家庭剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225713/index.m3u8
 NewTV家庭剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
 NewTV家庭剧场,http://39.137.49.76:8080/PLTV/88888888/224/3221225713/index.m3u8?
+NewTV欢乐剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
+
 NewTV欢乐剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
 NewTV欢乐剧场,http://39.137.49.76:8080/PLTV/88888888/224/3221226210/index.m3u8
 NewTV海外剧场,http://39.135.41.243/cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225763/index.m3u8
