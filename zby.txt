@@ -2422,6 +2422,99 @@ CCTV-17,http://hls.ye23.vip/hls/cctv17hd.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 
 --20221115标记
+📡备用频道,#genre#
+测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
+CCTV-1 综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1& 
+
+CCTV-2 财经,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225948/index.m3u8?servicetype=1& 
+
+CCTV-3 综艺,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225916/index.m3u8?servicetype=1& 
+
+CCTV-4 中文国际,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225922/index.m3u8?servicetype=1& 
+
+CCTV-5 体育,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225925/index.m3u8?servicetype=1& 
+
+CCTV-6 电影,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225936/index.m3u8?servicetype=1& 
+
+CCTV-7 国防军事,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225892/index.m3u8?servicetype=1& 
+
+CCTV-8 电视剧,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226001/index.m3u8?servicetype=1& 
+
+CCTV-9 记录,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225939/index.m3u8?servicetype=1& 
+
+CCTV-10 科教,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226004/index.m3u8?servicetype=1& 
+
+CCTV-11 戏曲,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225895/index.m3u8?servicetype=1& 
+
+CCTV-12 社会与法,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226013/index.m3u8?servicetype=1& 
+
+CCTV-13 新闻,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1& 
+
+CCTV-14 少儿,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225901/index.m3u8?servicetype=1& 
+
+CCTV-15 音乐,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225945/index.m3u8?servicetype=1& 
+
+CCTV-16 奥林匹克,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1& 
+
+CCTV-17 农业农村,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225910/index.m3u8?servicetype=1& 
+
+CCTV-5+ 体育赛事,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225621/index.m3u8?servicetype=1& 
+
+咪咕4K,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8?servicetype=1& 
+
+纯享4K,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1& 
+
+安徽卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225886/index.m3u8?servicetype=1& 
+
+北京卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225889/index.m3u8?servicetype=1& 
+
+北京冬奥纪实,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225995/index.m3u8?servicetype=1& 
+
+北京卡酷少儿,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1& 
+
+重庆卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225898/index.m3u8?servicetype=1& 
+
+东方卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225942/index.m3u8?servicetype=1& 
+
+东南卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225904/index.m3u8?servicetype=1& 
+
+甘肃卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225764/index.m3u8?servicetype=1& 
+
+广东卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225913/index.m3u8?servicetype=1& 
+
+广东嘉佳卡通,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225797/index.m3u8?servicetype=1& 
+
+广东珠江卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1& 
+
+广东大湾区卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1& 
+
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1& 
+
+贵州卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1& 
+
+海南卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225752/index.m3u8?servicetype=1& 
+
+河北卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1& 
+
+河南卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1& 
+
+黑龙江卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226019/index.m3u8?servicetype=1& 
+
+湖北卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225954/index.m3u8?servicetype=1& 
+
+湖南卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225919/index.m3u8?servicetype=1& 
+
+湖南金鹰纪实,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1& 
+
+湖南金鹰卡通,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1& 
+
+吉林卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1& 
+
+江苏卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226025/index.m3u8?servicetype=1& 
+
+江苏优漫卡通,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1& 
+
+江西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225957/index.m3u8?servicetype=1& 
 
 📡联通临时,#genre#
 测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
