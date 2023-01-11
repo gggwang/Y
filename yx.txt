@@ -285,8 +285,7 @@ CCTV17-农业农村,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 ---2023 0105标记
 
 🐼测试频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-CHC-动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1CHC-动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC-动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
 CHC-动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8?blog.ntnas.top
 CHC-家庭影院,http://live.lytv.net.cn/ggpd/sd/live.m3u8
@@ -391,8 +390,7 @@ CGTN-俄罗斯语国际,https://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
 ---2023 0105标记
 
 🐼超清频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 4K 影院,http://epg.112114.xyz/douyu/9249162
 4K 连续剧,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 4K 连续剧,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
@@ -464,8 +462,7 @@ MOVISTAR LIGA DE CAMPEONES UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/1240
 ---20221210标记
 
 🐼特区频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -2760,8 +2757,7 @@ TVB J2,https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
 ---20221115标记
 
 📡临时专线,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 CCTV-1,http://hls.ye23.vip/hls/cctv1hd.m3u8
 CCTV-2,http://hls.ye23.vip/hls/cctv2hd.m3u8
 CCTV-3,http://hls.ye23.vip/hls/cctv3hd.m3u8
@@ -2787,8 +2783,7 @@ CCTV-17,http://hls.ye23.vip/hls/cctv17hd.m3u8
 --20221115标记
 
 📡备用专线,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-CCTV-1 综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1& 
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1CCTV-1 综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1& 
 
 CCTV-2 财经,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225948/index.m3u8?servicetype=1& 
 
@@ -2881,8 +2876,7 @@ CCTV-5+ 体育赛事,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/32212256
 江西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225957/index.m3u8?servicetype=1& 
 
 📡联通专线,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 CCTV1,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226118/iptv65795.smil$超清1080P
 CCTV2,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226584/10000100000000060000000000499223_0.smil$超清1080P
 CCTV3,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226726/10000100000000060000000006489752_0.smil$超清1080P
@@ -2956,8 +2950,7 @@ CGTN法语频道HD,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226737/1000010
 辽宁卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226511/10000100000000060000000000394610_0.smil$高清720P
 
 📡移动专线,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
@@ -3085,8 +3078,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 
 📡爱尚专线,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 CCTV1 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1
 CCTV2 8M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1
 CCTV3 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1
@@ -3228,8 +3220,7 @@ NNM新动漫 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240321_1/pla
 
 
 📡电力专线,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 CCTV3,http://gxdl-lhs.8866.org:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://gxdl-lhs.8866.org:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://gxdl-lhs.8866.org:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3365,8 +3356,7 @@ DOXTV,http://gxdl-lhs.8866.org:85/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&
 1061号,http://gxdl-lhs.8866.org:85/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📡阿里专线,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-CCTV1 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1CCTV1 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV2 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV3 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv3hd8m/8000000/mnf.m3u8
 CCTV4 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
@@ -3447,8 +3437,7 @@ CCTV17 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv17hd8
 欢笑剧场4k,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
 
 📡可可专线,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 CCTV1,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv1/1300000/mnf.m3u8
 CCTV2,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv2/1300000/mnf.m3u8
 CCTV5,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
@@ -3483,8 +3472,7 @@ CCTV13,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 
 
 📡二七专线,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 中央-1,http://27.47.71.0:8088/hls/1/index.m3u8
 中央-2,http://27.47.71.0:8088/hls/2/index.m3u8
 中央-3,http://27.47.71.0:8088/hls/3/index.m3u8
@@ -3611,8 +3599,7 @@ TVB星河,http://27.47.71.0:8088/hls/35/index.m3u8
 南方5台,http://27.47.71.0:8088/hls/28/index.m3u8
 新南方2台,http://27.47.71.0:8088/hls/113/index.m3u8
 📡三九专线,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-CCTV1-7.5M1080-百视通,http://39.134.193.112:6610/000000001000/5000000004000002226/index.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1CCTV1-7.5M1080-百视通,http://39.134.193.112:6610/000000001000/5000000004000002226/index.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 CCTV1-3.5M1080-百视通,http://39.134.193.112:6610/000000001000/5000000010000030810/index.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=3
 CCTV1-8M1080-华数,http://39.134.193.112:6610/000000001000/6000000001000029752/index.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
 CCTV1-8M1080-易视腾,http://39.134.193.112:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
@@ -3940,8 +3927,7 @@ SiTV游戏风云-2.5M1080-百视通,http://39.134.193.112:6610/000000001000/5000
 
 
 📡特区专线,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 澳门莲花,https://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
 有线财经,https://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
 有线新闻,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
@@ -3993,8 +3979,7 @@ RT英语新闻,https://pull-l3-cny.douyincdn.com/live/01a22d8d466a6ef38b80e2ce6c
 
 
 📡IPTV频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 IPTV3+,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240093_1/playlist.m3u8?CONTENTID=00000110240093_1
 IPTV5+,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240094_1/playlist.m3u8?CONTENTID=00000110240094_1
 
@@ -4035,8 +4020,7 @@ IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8
 ---20221115标记
 
 🎬电影频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 
 电影台51,http://bp-caster.bestv.com.cn/532/1/video.m3u8
 电影台52,http://bp-caster.bestv.com.cn/490/1/video.m3u8
@@ -4054,8 +4038,7 @@ IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8
 ---20221115标记
 
 🎥影院频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 华语影院,http://epg.112114.xyz/douyu/434971
 特辑影院,http://epg.112114.xyz/douyu/3637778
 动作影院,http://txtest-xp2p.p2p.huya.com/src/1099531752780-1099531752780-86436234011869184-2199063629016-10057-A-0-1.xs
@@ -4129,7 +4112,7 @@ TVB剧场2,http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-54443
 ---20221115标记
 
 👶卡通频道,#genre#
-测试频道,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 
 卡酷动画,http://111.59.189.40:8445/tsfile/live/1015_1.m3u8
 金鹰卡通,http://111.59.189.40:8445/tsfile/live/1016_1.m3u8
@@ -4169,8 +4152,7 @@ TVB剧场2,http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-54443
 ---20221115标记
 
 🏆体育频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
@@ -4184,7 +4166,7 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 
 🎓人文频道,#genre#
-测试频道,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 青曲社,http://111.62.156.15/tx.flv.huya.com/src/0-0-0-2199063628682-10057-A-0-1.m3u8
 动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
 动物世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
@@ -4562,8 +4544,7 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 ---20221115标记
 
 🧑明星剧场,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 古龙1,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
 金庸2,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 王晶1,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
@@ -4600,8 +4581,7 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 ---20221115标记
 
 👲开心剧场,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 德云社1,http://txtest-xp2p.p2p.huya.com/src/1394575567-1394575567-5989656452065656832-2789274590-10057-A-0-1.xs
 德云社2,http://bp-caster.bestv.com.cn/512/1/video.m3u8
 德云社3,http://txtest-xp2p.p2p.huya.com/src//64310431-64310431-276211197936664576-128744318-10057-A-0-1.xs
@@ -4618,8 +4598,7 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 ---20221115标记
 
 🎞️剧集轮播,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 鬼吹灯,http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
 封神榜,http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
 鹿鼎记,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28265277
@@ -4670,8 +4649,7 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 ---20221115标记
 
 🎞️电影轮播,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 邵氏-断肠剑,https://50069.njc.svp.tencent-cloud.com/0bf2kaaa2aaakaaem74b6bqvaugdbviaadia.f10004.mp4
 邵氏-045财子名花星妈,https://50069.njc.svp.tencent-cloud.com/0bf2xeaaaaaavaacyb2rkvqvboodac4qaaaa.f10003.mp4
 邵氏-074山歌姻缘,https://50069.njc.svp.tencent-cloud.com/0bf2tqabkaaap4annylcovqvbhgdcwoaafia.f10003.mp4
@@ -4790,8 +4768,7 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 ---20221115标记
 
 🐠斗鱼视频,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-斗鱼1,http://epg.112114.xyz/douyu/3186217
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1斗鱼1,http://epg.112114.xyz/douyu/3186217
 斗鱼2,http://epg.112114.xyz/douyu/431460
 斗鱼3,http://epg.112114.xyz/douyu/508540
 斗鱼4,http://epg.112114.xyz/douyu/7925840
@@ -4881,13 +4858,11 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 
 🐶酷狗视频,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-酷狗·电影25,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1酷狗·电影25,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 
 ---20221115标记
 🦝歪歪视频,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-歪歪1,http://106.53.212.251/daili/yy.php?id=34229877&type=.m3u8
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1歪歪1,http://106.53.212.251/daili/yy.php?id=34229877&type=.m3u8
 歪歪2,http://106.53.212.251/daili/yy.php?id=26650882&type=.m3u8
 歪歪3,http://106.53.212.251/daili/yy.php?id=1351505899&type=.m3u8
 歪歪4,http://106.53.212.251/daili/yy.php?id=1351814644&type=.m3u8
@@ -4995,8 +4970,7 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 歪歪140,http://mmitv.top/pltv/yy.php?id=26870427
 
 🐱哔哩视频,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 哔哩34,http://zzy789.xyz/bili.php?id=1717236
 哔哩35,http://zzy789.xyz/bili.php?id=14495324
 哔哩36,http://zzy789.xyz/bili.php?id=10375360
@@ -5008,8 +4982,7 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 ---20221115标记
 
 🐯虎牙视频,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-虎牙1,http://txtest-xp2p.p2p.huya.com/src/1394575568-1394575568-5989656456360624128-2789274592-10057-A-0-1.xs
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1虎牙1,http://txtest-xp2p.p2p.huya.com/src/1394575568-1394575568-5989656456360624128-2789274592-10057-A-0-1.xs
 虎牙2,http://txtest-xp2p.p2p.huya.com/src/1099531728480-1099531728480-86331866306576384-2199063580416-10057-A-0-1.xs
 虎牙3,http://txtest-xp2p.p2p.huya.com/src/2487318442-2487318442-10682951363127672832-4974760340-10057-A-0-1.xs
 虎牙4,http://txtest-xp2p.p2p.huya.com/src/1199573448927-1199573448927-5487135726426390528-2399147021310-10057-A-0-1.xs
@@ -5400,16 +5373,14 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 
 🐼华数频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 华数 ,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 华数2,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 华数4 ,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
 华数6,http://hls-ott-zhibo.wasu.tv/live/496/index.m3u8
 
 🍓黑莓视频,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 黑莓动画,http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
 哒啵赛事,http://39.135.138.58:18890/PLTV/88888888/224/3221225653/index.m3u8
@@ -5435,8 +5406,7 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 ---20221115标记
 
 🍊百视频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-BesTV春晚,http://bp-caster.bestv.com.cn:80/435/3/video.m3u8
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1BesTV春晚,http://bp-caster.bestv.com.cn:80/435/3/video.m3u8
 BesTV跨年,http://bp-caster.bestv.com.cn:80/436/3/video.m3u8
 BesTV健康,http://bp-caster.bestv.com.cn:80/402/1/video.m3u8
 BesTV读诗,http://bp-caster.bestv.com.cn:80/418/3/video.m3u8
@@ -5508,8 +5478,7 @@ BesTV8,http://tvmvip110.club/bs.php?id=246
 
 
 🥝奇艺频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 票房冠军,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
 票房冠军,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
 日韩院线,http://120.226.29.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_62_600_t10/c53_lb_62_600_t10.m3u8
@@ -5626,8 +5595,7 @@ iHot爱动漫,http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?
 
 
 🪐SiTV频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 SiTV法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 SiTV欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
@@ -5652,8 +5620,7 @@ SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u
 ---20221115标记
 
 🪐NewTV频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-NewTV军旅剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221225669/index.m3u8
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1NewTV军旅剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221225669/index.m3u8
 NewTV军旅剧场,http://39.135.41.243/cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
 NewTV军旅剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225669/index.m3u8
 NewTV军旅剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
@@ -5810,8 +5777,7 @@ NewTV电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 ---20221115标记
 
 🛸埋堆堆频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-埋堆堆1,http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1埋堆堆1,http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
 埋堆堆2,http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
 埋堆堆3,http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
 埋堆堆4,http://txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
@@ -5846,8 +5812,7 @@ NewTV电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 
 ---20221115标记
 📻有声广播频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 中央长江之声,https://ls.qingting.fm/live/5021868/64k.m3u8
 中央海峡之声新闻,https://ls.qingting.fm/live/1744/64k.m3u8
 安徽MIX961,https://ls.qingting.fm/live/20211718/64k.m3u8
@@ -6580,8 +6545,7 @@ NewTV电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 --20221115
 
 🎼曲艺点播欣赏,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 赌论,https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1f56dde8-79e3-48f8-9aaf-274392f4b5ba/f54bd3d0-f952-4ccd-abca-55a4b9f0682f.mp4
 论梦,https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1f56dde8-79e3-48f8-9aaf-274392f4b5ba/9a16e506-a1bc-496f-a679-448b86ee798e.mp4
 酒令,https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b5555b88-3df9-48d5-b960-38c13a122d60/c0b85e68-0edd-414d-8929-dcc0a2795760.mp4
@@ -6869,8 +6833,7 @@ NewTV电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 --20221115
 
 🎼歌舞点播欣赏,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 韩国太妍01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240162304531.mp4
 韩国太妍02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
 韩国太妍03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
@@ -7052,9 +7015,8 @@ NewTV电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 韩国歌团153,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
 
 🎏各地风景欣赏,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
-部分位置不准,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
+部分位置不准,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 
 湖南-张家界水绕四门,http://gccncc.v.wscdns.com/gc/zjjsrsm_1/index.m3u8
 湖南-张家界水绕四门,http://gcbsc.v.live.baishancdnx.cn/gc/zjjsrsm_1/index.m3u8
@@ -7382,8 +7344,7 @@ NewTV电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 
 
 🚧频道测试专线_2023,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
+测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 埋堆堆1,http://youguan.gq/yangg/huya.php?id=23749096
 埋堆堆2,http://youguan.gq/yangg/huya.php?id=23735126
 埋堆堆3,http://youguan.gq/yangg/huya.php?id=23865152
@@ -7451,9 +7412,9 @@ NewTV电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 埋堆堆65,http://youguan.gq/yangg/huya.php?id=23734256
 埋堆堆66,http://youguan.gq/yangg/huya.php?id=23829543
 🚀频道更新通知,#genre#
-♥分享频道,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-♥20230104部分更新,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-♥央卫源优先维护,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+♥分享频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
+♥20230104部分更新,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
+♥央卫源优先维护,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 💥测试周期长,http://epg.112114.xyz/douyu/9588891
 💥存在失效源,http://epg.112114.xyz/douyu/9588891
 🔥频道过滤中,http://epg.112114.xyz/douyu/9588891
