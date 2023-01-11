@@ -444,7 +444,7 @@ CCTV16 4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV16 4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 BesTV 4K,http://74.119.193.113:8280/live/bestv4k/hls.m3u8
 北京IPTV 4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-BTV纪实科教 8K ,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
+北京纪实科教 8K ,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 
 VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
