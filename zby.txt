@@ -392,12 +392,11 @@ CGTN-俄罗斯语国际,https://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
 
 🐼超清频道,#genre#
 测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-4K 测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-4K 测试,http://159.75.85.63:5680/d/ad/playad.m3u8
+
 4K 影院,http://epg.112114.xyz/douyu/9249162
 4K 连续剧,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 4K 连续剧,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-4K 超高清电影,http://159.75.85.63:5681/sxg.php
+
 
 爱上 4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 
@@ -424,7 +423,7 @@ CGTN-俄罗斯语国际,https://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
 苏州 4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
 苏州 4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 河南 4K,http://74.119.193.113:8280/live/hn4k/hls.m3u8
-爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 
 
 李子柒 4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
@@ -456,6 +455,7 @@ LOUPE 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 LOUPE 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 YOSSO TV 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/16153/index.m3u8
 MYZEN TV 4K,http://cdnx1.plusx.tv:8880/myZen/mono.m3u8?token=24cce35b06aecc51433333
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Astro Super Sport 4K,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/348094
 Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
