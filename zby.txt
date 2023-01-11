@@ -5132,6 +5132,19 @@ BesTV高颜值偶像剧,http://bp-caster.bestv.com.cn:80/328/play.m3u8
 BesTV越剧名家名段,http://bp-caster.bestv.com.cn:80/320/play.m3u8
 BesTV打工人奋斗史,http://bp-caster.bestv.com.cn/532/1/video.m3u8
 
+BesTV独播1,https://bp-caster.bestv.com.cn/955/3/video.m3u8
+BesTV独播2,https://bp-caster.bestv.com.cn/946/3/video.m3u8
+BesTV独播3,http://tvmvip110.club/bs.php?id=247
+BesTV自制1,http://tvmvip110.club/bs.php?id=213
+BesTV自制2,http://tvmvip110.club/bs.php?id=216
+BesTV1,http://tvmvip110.club/bs.php?id=33
+BesTV2,http://tvmvip110.club/bs.php?id=41
+BesTV3,http://tvmvip110.club/bs.php?id=52
+BesTV4,http://tvmvip110.club/bs.php?id=76
+BesTV5,http://tvmvip110.club/bs.php?id=186
+BesTV6,http://tvmvip110.club/bs.php?id=201
+BesTV7,http://tvmvip110.club/bs.php?id=218
+BesTV8,http://tvmvip110.club/bs.php?id=246
 
 ---20221115标记
 
