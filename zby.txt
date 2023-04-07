@@ -6756,8 +6756,122 @@ NewTV电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 
 📻有声广播频道,#genre#
 测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
+
+中央交通,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+中央中国之声,https://ls.qingting.fm/live/386/64k.m3u8
 中央长江之声,https://ls.qingting.fm/live/5021868/64k.m3u8
+中央长江之声,https://ls.qingting.fm/live/5021868/64k.m3u8
+中央阅读之声,https://ls.qingting.fm/live/398/64k.m3u8
+中央中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+中央海峡飞虹,http://sk.cri.cn/hxfh.m3u8
 中央海峡之声新闻,https://ls.qingting.fm/live/1744/64k.m3u8
+中央海峡之声新闻,https://ls.qingting.fm/live/1744/64k.m3u8
+中央海峡之声闽南语,https://ls.qingting.fm/live/1746/64k.m3u8
+中央ChinaPlus,http://sk.cri.cn/am846.m3u8
+
+中央哈语,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+中央藏语,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+中央英语曼听,http://sk.cri.cn/915.m3u8
+中广新闻,http://n12.rcs.revma.com/78fm9wyy2tzuv
+中广音乐,http://n07.rcs.revma.com/ks4vsmg3qtzuv
+中广流行,http://n14.rcs.revma.com/aw9uqyxy2tzuv
+中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
+中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+
+CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
+CRI 环球资讯广播 FM90.5,http://live.xmcdn.com/live/1040/64.m3u8
+CRI 环球资讯广播 FM90.5,http://ls.qingting.fm/live/24035.m3u8
+CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
+CRI 中文环球广播,http://live.xmcdn.com/live/1043/64.m3u8
+CRI 中文环球广播,http://ls.qingting.fm/live/4995.m3u8
+CRI 南海之声,http://sk.cri.cn/nhzs.m3u8
+CRI 南海之声,http://live.xmcdn.com/live/1054/64.m3u8
+CRI 南海之声,http://ls.qingting.fm/live/62624.m3u8
+CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
+CRI Hit FM FM88.7,http://live.xmcdn.com/live/75/64.m3u8
+CRI Hit FM FM88.7,http://ls.qingting.fm/live/1007.m3u8
+CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
+CRI 轻松调频 FM91.5,http://live.xmcdn.com/live/1042/64.m3u8
+CRI 轻松调频 FM91.5,http://ls.qingting.fm/live/1006.m3u8
+CRI Easy FM – FM91.5,http://sk.cri.cn/915.m3u8
+CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
+CRI NEWS Plus AM846,http://ls.qingting.fm/live/4584.m3u8
+CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
+CRI NEWS Plus AM1008,http://ls.qingting.fm/live/4584.m3u8
+CRI Sydney,http://ls.qingting.fm/live/4584.m3u8
+CNR 经济之声,http://live.xmcdn.com/live/1066/64.m3u8
+CNR 经济之声,http://ls.qingting.fm/live/387.m3u8
+CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR 中国之声,http://live.xmcdn.com/live/1065/64.m3u8
+CNR 中国之声,http://ls.qingting.fm/live/386.m3u8
+CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR 音乐之声,http://live.xmcdn.com/live/12/64.m3u8
+CNR 音乐之声,http://ls.qingting.fm/live/388.m3u8
+CNR 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+CNR 经典音乐广播 101.8,http://live.xmcdn.com/live/13/64.m3u8
+CNR 经典音乐广播 101.8,http://ls.qingting.fm/live/389.m3u8
+CNR 经典音乐广播 101.8,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+CNR 中华之声,http://live.xmcdn.com/live/14/64.m3u8
+CNR 中华之声,http://ls.qingting.fm/live/390.m3u8
+CNR 中华之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR 神州之声,http://live.xmcdn.com/live/15/64.m3u8
+CNR 神州之声,http://ls.qingting.fm/live/391.m3u8
+CNR 神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR 华夏之声,http://live.xmcdn.com/live/16/64.m3u8
+CNR 华夏之声,http://ls.qingting.fm/live/392.m3u8
+CNR 华夏之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR 香港之声,http://live.xmcdn.com/live/44/64.m3u8
+CNR 香港之声,http://ls.qingting.fm/live/4986.m3u8
+CNR 香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+CNR 民族之声,http://live.xmcdn.com/live/17/64.m3u8
+CNR 民族之声,http://ls.qingting.fm/live/394.m3u8
+CNR 民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR 文艺之声,http://live.xmcdn.com/live/38/64.m3u8
+CNR 文艺之声,http://ls.qingting.fm/live/395.m3u8
+CNR 文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+CNR 老年之声,http://live.xmcdn.com/live/39/64.m3u8
+CNR 老年之声,http://ls.qingting.fm/live/396.m3u8
+CNR 老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR 中国乡村之声,http://ngcdn017.cnr.cn/live/xczs48/index.m3u8
+CNR 中国乡村之声,http://live.xmcdn.com/live/46/64.m3u8
+CNR 中国乡村之声,http://ls.qingting.fm/live/5039.m3u8
+CNR 中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR 哈语广播,http://live.xmcdn.com/live/1396/64.m3u8
+CNR 哈语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+CNR 藏语广播,http://ls.qingting.fm/live/4988.m3u8
+CNR 藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+CNR 维语广播,http://live.xmcdn.com/live/40/64.m3u8
+CNR 维语广播,http://ls.qingting.fm/live/4988.m3u8
+CNR 维语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+CNR 娱乐广播,http://live.xmcdn.com/live/42/64.m3u8
+CNR 娱乐广播,http://ls.qingting.fm/live/398.m3u8
+CNR 娱乐广播,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR 中国交通广播,http://live.xmcdn.com/live/45/64.m3u8
+CNR 中国交通广播,http://ls.qingting.fm/live/4985.m3u8
+CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+
+CRI 环球资讯广播,https://sk.cri.cn/905.m3u8
+CRI 华语环球广播,http://sk.cri.cn/hyhq.m3u8
+CRI 南海之声,https://sk.cri.cn/nhzs.m3u8
+CRI 世界华声,http://sk.cri.cn/hxfh.m3u8
+CRI 轻松调频,http://sk.cri.cn/915.m3u8
+CRI 粤语国际,http://sk.cri.cn/hxfh.m3u8
+CGTN Radio,http://sk.cri.cn/am846.m3u8
+
+AsiaFM 亚洲音乐,http://asiafm.hk:8000/asiafm
+AsiaFM 亚洲热歌,http://asiafm.net:8000/asiafmhot
+AsiaFM 亚洲经典,http://goldfm.cn:8000/goldfm
+AsiaFM 亚洲天空,http://funradio.cn:8000/funradio
+AsiaFM HD音乐台,http://asiafm.hk:8000/asiahd
+AsiaFM 亚洲粤语,http://asiafm.net:8000/asiafmyyt
+AsiaFM 亚洲电台,http://stream.rcs.revma.com/xpgtqc74hv8uv
+AsiaFM 亚太电台,http://stream.rcs.revma.com/kydend74hv8uv
+Big B Radio 中文流行,http://cpop.bigbradio.net/s
+Big B Radio 韩语流行,http://kpop.bigbradio.net/s
+Big B Radio 日语流行,http://jpop.bigbradio.net/s
+Big B Radio 亚洲流行,http://apop.bigbradio.net/s
+
 安徽MIX961,https://ls.qingting.fm/live/20211718/64k.m3u8
 安徽蚌埠交通文艺,https://ls.qingting.fm/live/4577/64k.m3u8
 安徽蚌埠经典,https://ls.qingting.fm/live/20152/64k.m3u8
@@ -7469,23 +7583,79 @@ NewTV电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 浙江绍兴交通广播,http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
 浙江绍兴私家车音乐广播,http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
 浙江绍兴之声,http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
-潮流音乐台,https://ls.qingting.fm/live/20207760/64k.m3u8
+
+台湾古典音乐电台,http://59.120.88.155:8000/live.mp3
+台北都会音乐电台,https://onair.bravo913.com.tw:9130/live.mp3
+台北广播电台FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+台北广播电台AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+台北健康,http://fm901.cityfm.tw:8080/901.mp3
+台中古典音乐电台,https://onair.family977.com.tw:8977/live.mp3
+台南知音,http://fm971.cityfm.tw:8080/971.mp3
+国立教育电台,http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+
+天籁之音-经典正流行,http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+天籁之音 Hi-Fi Radio,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+天籁之音-国风,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+
+警广之声,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+安全百科,http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+民谣音乐,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+动感音乐,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+舞迷心窍,http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+店头音乐,http://livestream.1766.today:1781/live2.mp3
+私房音乐,http://livestream.1766.today:1769/live1.mp3
+飞碟电台,http://n08.rcs.revma.com/em90w4aeewzuv
+潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+古典音乐,http://play.redefine.ltd/Stream2/FM1058-2.m3u8
+电音电台,http://play.redefine.ltd/Stream3/FM1058-3.m3u8
+民谣蓝调,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
 凤凰音乐,https://ls.qingting.fm/live/20212387/64k.m3u8
 后音乐台,https://ls.qingting.fm/live/20207761/64k.m3u8
-海峡之声闽南语,https://ls.qingting.fm/live/1746/64k.m3u8
+潮流音乐,https://ls.qingting.fm/live/20207760/64k.m3u8
+民歌悠扬,https://ls.qingting.fm/live/15318585/64k.m3u8
+民谣音乐,https://ls.qingting.fm/live/20207763/64k.m3u8
+品味音乐,https://ls.qingting.fm/live/21251/64k.m3u8
+摇滚天空,https://ls.qingting.fm/live/20207765/64k.m3u8
+天籁古典,https://ls.qingting.fm/live/20210756/64k.m3u8
+华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+80后音乐,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+
+经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
 爵士FM,https://ls.qingting.fm/live/20207764/64k.m3u8
 经典FM,https://ls.qingting.fm/live/20207762/64k.m3u8
-卷卷猫网络电台,https://ls.qingting.fm/live/20500038/64k.m3u8
-金荔枝经典流行音乐,https://ls.qingting.fm/live/15318194/64k.m3u8
-快乐私家车,https://ls.qingting.fm/live/5021919/64k.m3u8
-民歌悠扬,https://ls.qingting.fm/live/15318585/64k.m3u8
-民谣音乐台,https://ls.qingting.fm/live/20207763/64k.m3u8
-品味音乐,https://ls.qingting.fm/live/21251/64k.m3u8
 汽车潮流,https://ls.qingting.fm/live/21325/64k.m3u8
-天籁古典,https://ls.qingting.fm/live/20210756/64k.m3u8
-摇滚天空台,https://ls.qingting.fm/live/20207765/64k.m3u8
+美国之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+环宇广播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+全国广播,http://stream.rcs.revma.com/044q61ha7a0uv
+飞扬调频,http://stream.rcs.revma.com/e0tdah74hv8uv
+城市广播,http://fm929.cityfm.tw:8080/929.mp3
+南投广播,http://fm997.cityfm.tw:8080/997a.mp3
+大苗栗广播,http://fm983.cityfm.tw:8080/983.mp3
+快乐私家车,https://ls.qingting.fm/live/5021919/64k.m3u8
+心灵音乐馆,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+格莱美音乐,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+萤火虫网络电台,http://211.149.226.193:8066/1022.mp3
+卷卷猫网络电台,https://ls.qingting.fm/live/20500038/64k.m3u8
+卷卷猫网络电台,http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
+金荔枝经典流行音乐,https://ls.qingting.fm/live/15318194/64k.m3u8
 
----2023 0112标记,http://
+
+
+MY,https://astro1.rastream.com/myfm
+8FM,https://mediaprima.rastream.com/mediaprima-onefm
+好FM,https://22283.live.streamtheworld.com/HAO_963AAC.aac
+Melody,https://astro3.rastream.com/melody
+YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
+CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
+LOVE 972,https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+UFM 1003,https://22283.live.streamtheworld.com/UFM_1003AAC.aac
+News98 新闻电台,http://n12.rcs.revma.com/55tyxsy4qtzuv
+
+---2023 0406标记,http://
 
 🎼曲艺点播欣赏,#genre#
 测试频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
@@ -8465,7 +8635,7 @@ NewTV电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 
 🚀频道更新通知,#genre#
 ♥分享频道,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
-♥20230221部分更新,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
+♥202300406部分更新,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 ♥央卫源优先维护,https://txmov2.a.kwimgs.com/upic/2022/11/17/14/BMjAyMjExMTcxNDE3NTBfMjMxMTY4MDg3Ml84ODkxMDk2Mjg4MF8yXzM=_b_B54782bbf97f98b120fcd993add29da75.mp4?tag=1-1668665885-std-1-5ubgazctgu-468ad2c712e41a9b&clientCacheKey=3xrbu4e8n234em9_b.mp4&tt=b&di=79c43beb&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 💥测试周期长,http://epg.112114.xyz/douyu/9588891
 💥存在失效源,http://epg.112114.xyz/douyu/9588891
