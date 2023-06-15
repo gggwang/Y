@@ -1577,7 +1577,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 浙江|北仑电视,http://play-sh.quklive.com/live/1626327731714170.m3u8?zzhed
 浙江|蓝田电视,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 
-📡爱尚叁线,#genre#
+📡爱尚壹线,#genre#
 CCTV1,http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV2,http://live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV3,http://live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -2802,7 +2802,7 @@ DOXTV,http://gxdl-lhs.8866.org:85/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&
 1061号,http://gxdl-lhs.8866.org:85/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📡临时贰线,#genre#
-❤央视频道,#genre#
+
 CCTV1综合,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
 CCTV1综合,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
@@ -2982,6 +2982,154 @@ CCTV16奥林匹克4K,https://live.goodiptv.club/aishang/cctv164k
 中国天气,https://live.goodiptv.club/api/cqyx.php?id=tianqiSD
 西藏卫视,https://live.goodiptv.club/api/cqyx.php?id=xizangSD
 
+
+CCTV13新闻,http://bad-ass.site/pachong.php?user=guest&id=45
+CCTV15音乐,http://bad-ass.site/pachong.php?user=guest&id=47
+广东大湾区卫视,http://bad-ass.site/pachong.php?user=guest&id=513
+广东卫视,http://bad-ass.site/pachong.php?user=guest&id=514
+浙江卫视,http://bad-ass.site/pachong.php?user=guest&id=517
+湖北卫视,http://bad-ass.site/pachong.php?user=guest&id=519
+湖南卫视,http://bad-ass.site/pachong.php?user=guest&id=520
+
+📡临时叁线,#genre#
+
+HOY资讯台,http://bad-ass.site/pachong.php?user=guest&id=4
+NOW新闻,http://bad-ass.site/pachong.php?user=guest&id=5
+Super 18,http://bad-ass.site/pachong.php?user=guest&id=1075
+澳視葡語,http://bad-ass.site/pachong.php?user=guest&id=21
+开电视,http://bad-ass.site/pachong.php?user=guest&id=23
+星卫电影台,http://bad-ass.site/pachong.php?user=guest&id=30
+KIX,http://bad-ass.site/pachong.php?user=guest&id=1083
+ANIMAX,http://bad-ass.site/pachong.php?user=guest&id=1237
+Now财经台,http://bad-ass.site/pachong.php?user=guest&id=649
+SUPER直播足球2台,http://bad-ass.site/pachong.php?user=guest&id=1231
+SUPER直播足球3台,http://bad-ass.site/pachong.php?user=guest&id=1232
+SUPER直播足球4台,http://bad-ass.site/pachong.php?user=guest&id=1233
+SUPER直播足球5台,http://bad-ass.site/pachong.php?user=guest&id=1234
+SUPER直播足球6台,http://bad-ass.site/pachong.php?user=guest&id=1235
+SUPER直播足球7台,http://bad-ass.site/pachong.php?user=guest&id=1236
+寰宇新闻,http://bad-ass.site/pachong.php?user=guest&id=490
+壹新闻,http://bad-ass.site/pachong.php?user=guest&id=492
+CBSN新闻,http://bad-ass.site/pachong.php?user=guest&id=502
+中天亚洲,http://bad-ass.site/pachong.php?user=guest&id=874
+ELTA影剧,http://bad-ass.site/pachong.php?user=guest&id=891
+Super sports 4,http://bad-ass.site/pachong.php?user=guest&id=903
+Super sports 5,http://bad-ass.site/pachong.php?user=guest&id=904
+WWE,http://bad-ass.site/pachong.php?user=guest&id=909
+NBA TV,http://bad-ass.site/pachong.php?user=guest&id=910
+Eurosports HD,http://bad-ass.site/pachong.php?user=guest&id=911
+Astro Golf,http://bad-ass.site/pachong.php?user=guest&id=912
+BT Sports 1,http://bad-ass.site/pachong.php?user=guest&id=913
+BT ESPN,http://bad-ass.site/pachong.php?user=guest&id=916
+Arena,http://bad-ass.site/pachong.php?user=guest&id=917
+Skysports Golf,http://bad-ass.site/pachong.php?user=guest&id=925
+Skysports Main Event,http://bad-ass.site/pachong.php?user=guest&id=926
+super Golf,http://bad-ass.site/pachong.php?user=guest&id=928
+one golf,http://bad-ass.site/pachong.php?user=guest&id=929
+星卫电影,http://bad-ass.site/pachong.php?user=guest&id=946
+tvN Movie,http://bad-ass.site/pachong.php?user=guest&id=957
+BBC Earth Lifestyle,http://bad-ass.site/pachong.php?user=guest&id=971
+全佳,http://bad-ass.site/pachong.php?user=guest&id=974
+爱奇艺,http://bad-ass.site/pachong.php?user=guest&id=978
+beIN Sport Premium 02,http://bad-ass.site/pachong.php?user=guest&id=1066
+beIN Sport Premium 03,http://bad-ass.site/pachong.php?user=guest&id=1067
+beIN Sport 01,http://bad-ass.site/pachong.php?user=guest&id=1068
+beIN Sport 03,http://bad-ass.site/pachong.php?user=guest&id=1070
+beIN Sport 06,http://bad-ass.site/pachong.php?user=guest&id=1073
+Teletica HD,http://bad-ass.site/pachong.php?user=guest&id=854
+CANAL 8,http://bad-ass.site/pachong.php?user=guest&id=1088
+FUTV,http://bad-ass.site/pachong.php?user=guest&id=1089
+tv1,http://bad-ass.site/pachong.php?user=guest&id=1112
+ria,http://bad-ass.site/pachong.php?user=guest&id=1115
+aec,http://bad-ass.site/pachong.php?user=guest&id=1150
+HubVVDrama,http://bad-ass.site/pachong.php?user=guest&id=1384
+HubSports1,http://bad-ass.site/pachong.php?user=guest&id=1269
+HubSports3,http://bad-ass.site/pachong.php?user=guest&id=1271
+HubSports5,http://bad-ass.site/pachong.php?user=guest&id=1273
+HubSports4,http://bad-ass.site/pachong.php?user=guest&id=1272
+CelestialMovies,http://bad-ass.site/pachong.php?user=guest&id=1387
+Now剧集台,http://bad-ass.site/pachong.php?user=guest&id=653
+Now华剧台,http://bad-ass.site/pachong.php?user=guest&id=654
+NowJelli紫金,http://bad-ass.site/pachong.php?user=guest&id=655
+星影台国语,http://bad-ass.site/pachong.php?user=guest&id=1239
+NowSports 1,http://bad-ass.site/pachong.php?user=guest&id=657
+NowSports 3,http://bad-ass.site/pachong.php?user=guest&id=659
+NowSports 4,http://bad-ass.site/pachong.php?user=guest&id=660
+NowSports 5,http://bad-ass.site/pachong.php?user=guest&id=661
+NowSports 6,http://bad-ass.site/pachong.php?user=guest&id=662
+Now 英超2,http://bad-ass.site/pachong.php?user=guest&id=1096
+Now 英超3,http://bad-ass.site/pachong.php?user=guest&id=1095
+NOW英超4,http://bad-ass.site/pachong.php?user=guest&id=1094
+NOW英超5,http://bad-ass.site/pachong.php?user=guest&id=1093
+NOW英超6,http://bad-ass.site/pachong.php?user=guest&id=664
+Now Golf 2,http://bad-ass.site/pachong.php?user=guest&id=1250
+Now Sports Plus,http://bad-ass.site/pachong.php?user=guest&id=1249
+SPOTV,http://bad-ass.site/pachong.php?user=guest&id=1247
+beIN SPORTS 1,http://bad-ass.site/pachong.php?user=guest&id=1240
+beIN SPORTS 2,http://bad-ass.site/pachong.php?user=guest&id=1241
+beIN SPORTS 3,http://bad-ass.site/pachong.php?user=guest&id=1242
+beIN SPORTS 5,http://bad-ass.site/pachong.php?user=guest&id=1244
+beIN SPORTS 6,http://bad-ass.site/pachong.php?user=guest&id=1245
+Discovery Channel,http://bad-ass.site/pachong.php?user=guest&id=1253
+動物星球頻道,http://bad-ass.site/pachong.php?user=guest&id=1254
+Discovery 科學頻道,http://bad-ass.site/pachong.php?user=guest&id=1255
+DMAX,http://bad-ass.site/pachong.php?user=guest&id=1256
+TLC旅遊生活頻道,http://bad-ass.site/pachong.php?user=guest&id=1257
+國家地理頻道,http://bad-ass.site/pachong.php?user=guest&id=1258
+國家地理野生頻道,http://bad-ass.site/pachong.php?user=guest&id=1259
+戶外頻道,http://bad-ass.site/pachong.php?user=guest&id=1261
+HISTORY,http://bad-ass.site/pachong.php?user=guest&id=1262
+Now Sports 681,http://bad-ass.site/pachong.php?user=guest&id=1263
+HBO Signature(HK),http://bad-ass.site/pachong.php?user=guest&id=1267
+香港国际财经,http://bad-ass.site/pachong.php?user=guest&id=9
+TVB经典台,http://bad-ass.site/pachong.php?user=guest&id=27
+TVB亚洲剧台,http://bad-ass.site/pachong.php?user=guest&id=683
+TVB 千禧經典台,http://bad-ass.site/pachong.php?user=guest&id=682
+TVB功夫,http://bad-ass.site/pachong.php?user=guest&id=853
+TVB戏曲台,http://bad-ass.site/pachong.php?user=guest&id=1091
+黄金翡翠台,http://bad-ass.site/pachong.php?user=guest&id=1090
+三立LIVE,http://bad-ass.site/pachong.php?user=guest&id=494
+
+
+📡临时肆线,#genre#
+TVB星河,http://pull-l3-cny.douyincdn.com/third/stream-d40c919171cfc73cf4de67fc381cbc3e.m3u8
+TVBS新闻台,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
+TVB-HD,http://pull-l3-cny.douyincdn.com/third/stream-304b8e04a437299311112b7f4902c9dd.m3u8
+卫视西片台,http://pull-l3-cny.douyincdn.com/third/stream-01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
+寰宇新闻台,http://pull-l3-cny.douyincdn.com/third/stream-a9e3982a798d13ba350075af6cff4119.m3u8
+星卫电影台,http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8
+纬来戏剧台,http://pull-l3-cny.douyincdn.com/third/stream-cf93b19e055f2800058541033c0c4355.m3u8
+莲花电影台,http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
+BOO驚悚台,http://pull-l3-cny.douyincdn.com/third/stream-6ea2b038f2ce633a65f0450895f6679e.m3u8
+卫视电影台,http://pull-l3-cny.douyincdn.com/third/stream-6de7ee8878da79aaf393c0f63081cb0c.m3u8
+好莱坞电影,http://pull-l3-cny.douyincdn.com/third/stream-06027cd7cadf310982fe67221578515b.m3u8
+龙祥电影台,http://pull-l3-cny.douyincdn.com/third/stream-c32278dece9f79334a2a878aaa730e95.m3u8
+天映电影台,http://pull-l3-cny.douyincdn.com/third/stream-4480903e93e7bf6ddde637e903c423a0.m3u8
+CINEMAX,http://pull-l3-cny.douyincdn.com/third/stream-af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
+HBO HD,http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
+HBO家庭影院,http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
+HBO原创电影,http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
+HBO强档影院,http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.m3u8
+探索动力HD,http://pull-l3-cny.douyincdn.com/third/stream-ea6907626f7d64aa61e5ebf88180e43d.m3u8
+探索科学HD,http://pull-l3-cny.douyincdn.com/third/stream-2ce10c5078ec753f8f50f4c3897e8f76.m3u8
+纬来体育HD,http://pull-l3-cny.douyincdn.com/third/stream-05fadffbceabeb97bbf09061a165791b.m3u8
+八大戏剧HD,http://pull-l3-cny.douyincdn.com/third/stream-d031f22e749d09f261df822eb69fd743.m3u8
+KBS1 HD,http://pull-l3-cny.douyincdn.com/third/stream-da1f0d9f19a7ad52a9675a58e08de24b.m3u8
+KBS2 HD,http://pull-l3-cny.douyincdn.com/third/stream-9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
+MBC HD,http://pull-l3-cny.douyincdn.com/third/stream-4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
+SBS HD,http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f1c.m3u8
+美亚电影台,http://pull-l3-cny.douyincdn.com/third/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+龙华洋片台,http://pull-l3-cny.douyincdn.com/third/stream-7c4301f3ec1b9c970db0af9d1c07e66f.m3u8
+靖天映画,http://pull-l3-cny.douyincdn.com/third/stream-41f29bf461ffa99e595f70b9593c61aa.m3u8
+靖天欢乐台,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
+东森电影台,http://pull-l3-cny.douyincdn.com/third/stream-3d50d525417f450fdbc3fbbf5ac32960.m3u8
+动物星球HD,http://pull-l3-cny.douyincdn.com/third/stream-eac374df3c06e8985d587224a056f483.m3u8
+中天新闻台,http://pull-l3-cny.douyincdn.com/third/stream-7898d38d54c60879ba96a1fa42edbd53.m3u8
+中天综合台,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
+中天娱乐台,http://pull-l3-cny.douyincdn.com/third/stream-37e4951f0608d79a74ebed4ab2da462a.m3u8
+湖南电影台,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f896e9.m3u8
+八大第一HD,http://pull-l3-cny.douyincdn.com/third/stream-9dbd2556b180db11b62283739297981b.m3u8
 
 📡IPTV频道,#genre#
 IPTV6+,http://58.223.161.43/live.aishang.ctlcdn.com/00000110240007_1/encoder/0/playlist.m3u8?CONTENTID=00000110240007_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR&areano=140800
@@ -3928,6 +4076,115 @@ CCTV14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 歪歪118,http://mmitv.top/pltv/yy.php?id=1331686180
 歪歪131,http://mmitv.top/pltv/yy.php?id=1353426319
 
+
+过年了,http://lzoq.hk3c.ml/daili/yy.php?id=1454553780
+神医喜来乐,http://lzoq.hk3c.ml/daili/yy.php?id=1382714119
+林正英-经典电影,http://lzoq.hk3c.ml/daili/yy.php?id=34229877
+进来 陪你看动漫,http://lzoq.hk3c.ml/daili/yy.php?id=1352866135
+狄仁杰,http://lzoq.hk3c.ml/daili/yy.php?id=1351755386
+知否知否应是绿肥红瘦,http://lzoq.hk3c.ml/daili/yy.php?id=21881901
+地下交通站,http://lzoq.hk3c.ml/daili/yy.php?id=1382736795
+新三国,http://lzoq.hk3c.ml/daili/yy.php?id=26744898
+[鬼怪.惊辣.墓穴],http://lzoq.hk3c.ml/daili/yy.php?id=1382748585
+举起手来-惊险抗日,http://lzoq.hk3c.ml/daili/yy.php?id=1382736877
+狄仁杰等你哦,http://lzoq.hk3c.ml/daili/yy.php?id=1457579747
+大秧歌,http://lzoq.hk3c.ml/daili/yy.php?id=1460463356
+经典鬼片3000部,http://lzoq.hk3c.ml/daili/yy.php?id=29460894
+案发现场全集,http://lzoq.hk3c.ml/daili/yy.php?id=1354775242
+战狼6吴京首播,http://lzoq.hk3c.ml/daili/yy.php?id=1354330332
+欢乐集结号,http://lzoq.hk3c.ml/daili/yy.php?id=1354931582
+鬼片.惊悚.港片,http://lzoq.hk3c.ml/daili/yy.php?id=1355497884
+动漫奥斯卡正在直播,http://lzoq.hk3c.ml/daili/yy.php?id=1382626335
+临界婚姻,http://lzoq.hk3c.ml/daili/yy.php?id=1354932365
+国外动作大片,http://lzoq.hk3c.ml/daili/yy.php?id=1382735540
+国产大片电影,http://lzoq.hk3c.ml/daili/yy.php?id=1354926655
+生逢灿烂的日子,http://lzoq.hk3c.ml/daili/yy.php?id=1382745085
+岳云鹏宋小宝也来演电影了？,http://lzoq.hk3c.ml/daili/yy.php?id=1354926612
+天龙八部,http://lzoq.hk3c.ml/daili/yy.php?id=1382749944
+好先生,http://lzoq.hk3c.ml/daili/yy.php?id=29067617
+鹿鼎记-陈小春版,http://lzoq.hk3c.ml/daili/yy.php?id=1382736920
+末日系列-外国电影合集,http://lzoq.hk3c.ml/daili/yy.php?id=1354889019
+24小时播放电视剧,http://lzoq.hk3c.ml/daili/yy.php?id=1354127609
+密子君,http://lzoq.hk3c.ml/daili/yy.php?id=1382736717
+水浒传梁山好汉,http://lzoq.hk3c.ml/daili/yy.php?id=1382832087
+春晚小品,http://lzoq.hk3c.ml/daili/yy.php?id=1382773715
+来看修牛蹄,http://lzoq.hk3c.ml/daili/yy.php?id=1382749887
+雪儿动漫,http://lzoq.hk3c.ml/daili/yy.php?id=1354143938
+动作大片,http://lzoq.hk3c.ml/daili/yy.php?id=1354888739
+科幻片：来看神奇的地球,http://lzoq.hk3c.ml/daili/yy.php?id=1354930897
+历年春晚小品合集,http://lzoq.hk3c.ml/daili/yy.php?id=1382773716
+风味原产地潮汕,http://lzoq.hk3c.ml/daili/yy.php?id=1382745178
+深海利剑,http://lzoq.hk3c.ml/daili/yy.php?id=1382736906
+馋哭了！川味来袭,http://lzoq.hk3c.ml/daili/yy.php?id=1382736913
+巩汉林春晚小品合集,http://lzoq.hk3c.ml/daili/yy.php?id=1354889035
+热血动作电影,http://lzoq.hk3c.ml/daili/yy.php?id=1382736804
+张译电视剧/电影,http://lzoq.hk3c.ml/daili/yy.php?id=1355119593
+战争大片,http://lzoq.hk3c.ml/daili/yy.php?id=1382736819
+农家小菜,http://lzoq.hk3c.ml/daili/yy.php?id=1382736894
+来自星星的你,http://lzoq.hk3c.ml/daili/yy.php?id=1354930976
+外国科幻大片,http://lzoq.hk3c.ml/daili/yy.php?id=1382747628
+神厨小福贵,http://lzoq.hk3c.ml/daili/yy.php?id=1382736860
+动作大片,http://lzoq.hk3c.ml/daili/yy.php?id=1354930887
+小宝让你乐翻天：6到9集,http://lzoq.hk3c.ml/daili/yy.php?id=1354930971
+国外高分大片,http://lzoq.hk3c.ml/daili/yy.php?id=1382736867
+金玉满堂：精彩港剧,http://lzoq.hk3c.ml/daili/yy.php?id=1382736881
+超英集结,http://lzoq.hk3c.ml/daili/yy.php?id=1382745091
+欢乐集结号2,http://lzoq.hk3c.ml/daili/yy.php?id=1354930919
+张国荣与周润发的兄弟情,http://lzoq.hk3c.ml/daili/yy.php?id=1354930961
+科幻电影,http://lzoq.hk3c.ml/daili/yy.php?id=1354930209
+蔡明春晚小品,http://lzoq.hk3c.ml/daili/yy.php?id=1354936177
+古装喜剧合集，还能玩起穿越？！,http://lzoq.hk3c.ml/daili/yy.php?id=1382749905
+热血动作片合集,http://lzoq.hk3c.ml/daili/yy.php?id=1382735627
+精彩动作电影,http://lzoq.hk3c.ml/daili/yy.php?id=1382736823
+法外风云,http://lzoq.hk3c.ml/daili/yy.php?id=1382736805
+脑洞大开的精彩科幻片,http://lzoq.hk3c.ml/daili/yy.php?id=1382736723
+拆弹专家-刘德华,http://lzoq.hk3c.ml/daili/yy.php?id=1382745111
+非诚勿扰,http://lzoq.hk3c.ml/daili/yy.php?id=1382745100
+9.8分！这部纪录片封神了,http://lzoq.hk3c.ml/daili/yy.php?id=1382736825
+回家的诱惑,http://lzoq.hk3c.ml/daili/yy.php?id=1354658043
+大唐双龙传,http://lzoq.hk3c.ml/daili/yy.php?id=1354930979
+萌鸡小队S1-国漫,http://lzoq.hk3c.ml/daili/yy.php?id=1382736904
+吐槽大会 第2季,http://lzoq.hk3c.ml/daili/yy.php?id=1354936145
+金星脱口秀-敢说会道,http://lzoq.hk3c.ml/daili/yy.php?id=1354932407
+家族荣耀-精彩港剧,http://lzoq.hk3c.ml/daili/yy.php?id=1382745103
+金装四大才子,http://lzoq.hk3c.ml/daili/yy.php?id=1354926600
+丁大命,http://lzoq.hk3c.ml/daili/yy.php?id=1382735579
+李茶的姑妈-开心麻花,http://lzoq.hk3c.ml/daili/yy.php?id=1354936191
+国内侦探电影大全,http://lzoq.hk3c.ml/daili/yy.php?id=1354936134
+国内战争,http://lzoq.hk3c.ml/daili/yy.php?id=1354930204
+超燃动作片,http://lzoq.hk3c.ml/daili/yy.php?id=1354936199
+爱的迫降-韩剧,http://lzoq.hk3c.ml/daili/yy.php?id=1354889042
+碟中谍系列-国外动作大片,http://lzoq.hk3c.ml/daili/yy.php?id=1354930181
+传奇之王-影视剧,http://lzoq.hk3c.ml/daili/yy.php?id=1354926735
+笑傲江湖 第2季,http://lzoq.hk3c.ml/daili/yy.php?id=1382736914
+心理追凶-港剧,http://lzoq.hk3c.ml/daili/yy.php?id=1354936207
+觅食者-美食纪录片,http://lzoq.hk3c.ml/daili/yy.php?id=1382736841
+笑傲江湖 第1季,http://lzoq.hk3c.ml/daili/yy.php?id=1382749896
+国内喜剧,http://lzoq.hk3c.ml/daili/yy.php?id=1382735563
+经典24小时电影剧场,http://lzoq.hk3c.ml/daili/yy.php?id=37880083
+MUFC贝影,http://lzoq.hk3c.ml/daili/yy.php?id=1355659580
+倚天屠龙记,http://lzoq.hk3c.ml/daili/yy.php?id=1354585252
+火线追凶-侦探系列电影,http://lzoq.hk3c.ml/daili/yy.php?id=1382745090
+冲上云霄-经典港剧,http://lzoq.hk3c.ml/daili/yy.php?id=1382736833
+
+
+赵本山,http://lzoq.hk3c.ml/daili/yy.php?id=1382683959
+赵本山,http://lzoq.hk3c.ml/daili/yy.php?id=32160832
+新三国,http://lzoq.hk3c.ml/daili/yy.php?id=1382705738
+鹿鼎记金庸经典,http://lzoq.hk3c.ml/daili/yy.php?id=28265277
+战狼3吴京,http://lzoq.hk3c.ml/daili/yy.php?id=37999586
+火蓝刀锋,http://lzoq.hk3c.ml/daili/yy.php?id=1354784966
+石敢当 六耳猕猴,http://lzoq.hk3c.ml/daili/yy.php?id=1394156613
+荒野求生 德爷贝爷各种,http://lzoq.hk3c.ml/daili/yy.php?id=21831828
+第一滴血全集,http://lzoq.hk3c.ml/daili/yy.php?id=1354932355
+聚星 小猴子,http://lzoq.hk3c.ml/daili/yy.php?id=1382773710
+一分钟学道菜,http://lzoq.hk3c.ml/daili/yy.php?id=1382736901
+买车前看一看 不然血亏,http://lzoq.hk3c.ml/daili/yy.php?id=1349602814
+一剑开天门,http://lzoq.hk3c.ml/daili/yy.php?id=34313906
+一起峡谷相遇吗,http://lzoq.hk3c.ml/daili/yy.php?id=1354342554
+香港动作大片,http://lzoq.hk3c.ml/daili/yy.php?id=1382736816
+记忆中的TVB,http://lzoq.hk3c.ml/daili/yy.php?id=1382749951
+美国队长史蒂夫,http://lzoq.hk3c.ml/daili/yy.php?id=1382736813
 
 🐯虎牙视频,#genre#
 电影_星爷,http://mmitv.top/pltv/huya.php?id=11342412
