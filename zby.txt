@@ -3624,6 +3624,89 @@ CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 
+📡移动叁线,#genre#
+CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226638/1.m3u8
+CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226667/1.m3u8
+CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226736/1.m3u8
+CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226737/1.m3u8
+CCTV2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226739/1.m3u8
+CCTV3,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226720/1.m3u8
+CCTV4,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226725/1.m3u8
+CCTV5,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226731/1.m3u8
+CCTV5+,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226711/1.m3u8
+CCTV6,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226699/1.m3u8
+CCTV7,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226721/1.m3u8
+CCTV8,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226715/1.m3u8
+CCTV9,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226651/1.m3u8
+CCTV9,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226657/1.m3u8
+CCTV10,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226708/1.m3u8
+CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226714/1.m3u8
+CCTV12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226723/1.m3u8
+CCTV12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226748/1.m3u8
+CCTV13,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226717/1.m3u8
+CCTV14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226645/1.m3u8
+CCTV14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226663/1.m3u8
+CCTV15,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226648/1.m3u8
+CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226825/1.m3u8
+CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226660/1.m3u8
+CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226727/1.m3u8
+CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
+CCTV2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8?
+CCTV3,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+CCTV4,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+CCTV5,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+CCTV5+,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
+CCTV6,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
+CCTV7,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
+CCTV8,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
+CCTV9,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8
+CCTV10,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
+CCTV13,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
+安徽卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226655/1.m3u8
+安徽卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226664/1.m3u8
+北京卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226719/1.m3u8
+东方卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226734/1.m3u8
+东南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226670/1.m3u8
+贵州卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226672/1.m3u8
+海南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226679/1.m3u8
+河北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226684/1.m3u8
+河南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226668/1.m3u8
+黑龙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226716/1.m3u8
+湖北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226713/1.m3u8
+湖南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226698/1.m3u8
+江苏卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226692/1.m3u8
+江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226682/1.m3u8
+江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226726/1.m3u8
+辽宁卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226689/1.m3u8
+山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226693/1.m3u8
+深圳卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226688/1.m3u8
+四川卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226659/1.m3u8
+天津卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226686/1.m3u8
+浙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226690/1.m3u8
+重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226680/1.m3u8
+安徽卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8
+安徽卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226664/1.m3u8
+北京卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
+东方卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
+东南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8
+浙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8
+天津卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
+深圳卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
+江苏卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
+湖南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
+湖北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226713/1.m3u8
+黑龙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
+海南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8
+贵州卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
+江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226682/1.m3u8
+江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226726/1.m3u8
+山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
+重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
+体育休闲,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226656/1.m3u8
+辽宁卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
+北京体育休闲,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226656/1.m3u8
+北京体育休闲,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226658/1.m3u8
+
 📡数字壹线,#genre#
 CCTV1,http://abcabc123.ml:4022/udp/239.49.1.1:6000
 CCTV2,http://abcabc123.ml:4022/udp/239.49.1.2:6000
@@ -5433,7 +5516,6 @@ CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-673532
 
 📡IPTV频道,#genre#
 
-
 CCTV-1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-2,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225599/index.m3u8
 CCTV-3,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
@@ -6079,7 +6161,7 @@ CCTV14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 燕双鹰专场,http://data.3g.yy.com/live/hls/1352227153/1352227153
 康熙微服私访记,http://diyp.112114.xyz/huya/11342418
 
-🎞️电影轮播,#genre#
+🎞️电影点播,#genre#
 星爷-功夫,https://hnzy.bfvvs.com/play/lej5zYdj/index.m3u8
 星爷-功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
 星爷-少林足球,https://hnzy.bfvvs.com/play/5eVn19eE/index.m3u8
@@ -6339,7 +6421,246 @@ CCTV14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 林正英-第43部,https://50069.njc.svp.tencent-cloud.com/0bf26uaa4aaaneacnvkq2zqfb5odb32qadqa.f10002.mp4
 林正英-第44部,https://50069.njc.svp.tencent-cloud.com/0bf2zyaayaaapaad3ssq2fqfbtwdbthaadaa.f10002.mp4
 
-🎞️春晚轮播,#genre#
+🎞️剧集点播,#genre#
+
+
+
+薄冰 第01集,https://vip.lzcdn2.com/20230405/25073_a1c823f1/index.m3u8
+薄冰 第02集,https://vip.lzcdn2.com/20230405/25072_085c6798/index.m3u8
+薄冰 第03集,https://vip.lzcdn2.com/20230405/25071_d0049fd0/index.m3u8
+薄冰 第04集,https://vip.lzcdn2.com/20230405/25070_1b893654/index.m3u8
+薄冰 第05集,https://vip.lzcdn2.com/20230405/25069_5a73b22f/index.m3u8
+薄冰 第06集,https://vip.lzcdn2.com/20230405/25068_c641363d/index.m3u8
+薄冰 第07集,https://hd.lz-cdn18.com/20230406/1703_cb427ae2/index.m3u8
+薄冰 第08集,https://hd.lz-cdn18.com/20230406/1702_f7449dee/index.m3u8
+薄冰 第09集,https://vip.lzcdn2.com/20230407/25106_c8c6f29f/index.m3u8
+薄冰 第10集,https://hd.lz-cdn18.com/20230408/1763_0e36419a/index.m3u8
+薄冰 第11集,https://vip.lzcdn2.com/20230409/25144_f648c487/index.m3u8
+薄冰 第12集,https://hd.lz-cdn18.com/20230410/1784_bad15499/index.m3u8
+薄冰 第13集,https://hd.lz-cdn18.com/20230410/1783_cd50eb7c/index.m3u8
+薄冰 第14集,https://vip.lzcdn2.com/20230411/25178_b14b894a/index.m3u8
+薄冰 第15集,https://vip.lzcdn2.com/20230411/25177_f2b6609b/index.m3u8
+薄冰 第16集,https://hd.lz-cdn18.com/20230412/1823_dcd94ca6/index.m3u8
+薄冰 第17集,https://hd.lz-cdn18.com/20230412/1822_1f72f370/index.m3u8
+薄冰 第18集,https://vip.lzcdn2.com/20230413/25212_7680210d/index.m3u8
+薄冰 第19集,https://vip.lzcdn2.com/20230413/25211_2cd244ca/index.m3u8
+薄冰 第20集,https://hd.lz-cdn18.com/20230414/1891_36cc8fac/index.m3u8
+
+冰锋 第01集,https://vip.lz-cdn16.com/20230411/16348_f3274146/index.m3u8
+冰锋 第02集,https://vip.lz-cdn16.com/20230411/16350_df03a74c/index.m3u8
+冰锋 第03集,https://vip.lz-cdn16.com/20230411/16352_b11f12f2/index.m3u8
+冰锋 第04集,https://vip.lz-cdn16.com/20230411/16355_87ce6f0c/index.m3u8
+冰锋 第05集,https://vip.lz-cdn16.com/20230411/16353_6e18a952/index.m3u8
+冰锋 第06集,https://vip.lz-cdn16.com/20230411/16351_c4e56e00/index.m3u8
+冰锋 第07集,https://vip.lz-cdn16.com/20230411/16358_36498fe8/index.m3u8
+冰锋 第08集,https://vip.lz-cdn16.com/20230411/16357_7b95a517/index.m3u8
+冰锋 第09集,https://vip.lz-cdn16.com/20230411/16356_db1f2fe3/index.m3u8
+冰锋 第10集,https://vip.lz-cdn16.com/20230411/16359_c7f374cd/index.m3u8
+冰锋 第11集,https://vip.lz-cdn16.com/20230411/16363_45aefb90/index.m3u8
+冰锋 第12集,https://vip.lz-cdn16.com/20230411/16360_a92cb7c1/index.m3u8
+冰锋 第13集,https://vip.lz-cdn16.com/20230411/16361_48d3dbb0/index.m3u8
+冰锋 第14集,https://vip.lz-cdn16.com/20230411/16366_498de88e/index.m3u8
+冰锋 第15集,https://vip.lz-cdn16.com/20230411/16362_cea11cc8/index.m3u8
+冰锋 第16集,https://vip.lz-cdn16.com/20230411/16364_971720f8/index.m3u8
+冰锋 第17集,https://vip.lz-cdn16.com/20230411/16368_6664bb77/index.m3u8
+冰锋 第18集,https://vip.lz-cdn16.com/20230411/16367_992a606b/index.m3u8
+冰锋 第19集,https://vip.lz-cdn16.com/20230411/16365_565c8fba/index.m3u8
+冰锋 第20集,https://vip.lz-cdn16.com/20230411/16371_379b5cae/index.m3u8
+冰锋 第21集,https://vip.lz-cdn16.com/20230411/16369_7de6ddb9/index.m3u8
+冰锋 第22集,https://vip.lz-cdn16.com/20230411/16370_de0084a3/index.m3u8
+冰锋 第23集,https://vip.lz-cdn16.com/20230411/16374_6c518701/index.m3u8
+冰锋 第24集,https://vip.lz-cdn16.com/20230411/16373_057acfab/index.m3u8
+冰锋 第25集,https://vip.lz-cdn16.com/20230411/16372_8cc6e9d1/index.m3u8
+冰锋 第26集,https://vip.lz-cdn16.com/20230411/16375_241f12ec/index.m3u8
+冰锋 第27集,https://vip.lz-cdn16.com/20230411/16376_3c6b4815/index.m3u8
+冰锋 第28集,https://vip.lz-cdn16.com/20230411/16377_cd6595f2/index.m3u8
+冰锋 第29集,https://vip.lz-cdn16.com/20230411/16379_f8694ff7/index.m3u8
+冰锋 第30集,https://vip.lz-cdn16.com/20230411/16380_92f48a38/index.m3u8
+
+
+雍正王朝 第01集,https://v9.dious.cc/20230626/6ArFCids/index.m3u8
+雍正王朝 第02集,https://v9.dious.cc/20230626/HW2JHFtK/index.m3u8
+雍正王朝 第03集,https://v9.dious.cc/20230626/lRl5IaEY/index.m3u8
+雍正王朝 第04集,https://v9.dious.cc/20230626/r9HVNveC/index.m3u8
+雍正王朝 第05集,https://v9.dious.cc/20230626/2G9EicgN/index.m3u8
+雍正王朝 第06集,https://v9.dious.cc/20230626/wDYVWfgX/index.m3u8
+雍正王朝 第07集,https://v9.dious.cc/20230626/jXmP9pxy/index.m3u8
+雍正王朝 第08集,https://v9.dious.cc/20230626/92mnDLF4/index.m3u8
+雍正王朝 第09集,https://v9.dious.cc/20230626/wGPIM6YG/index.m3u8
+雍正王朝 第10集,https://v9.dious.cc/20230626/YcinhPw9/index.m3u8
+雍正王朝 第11集,https://v9.dious.cc/20230626/8JS2oI3t/index.m3u8
+雍正王朝 第12集,https://v9.dious.cc/20230626/TmFR3VcL/index.m3u8
+雍正王朝 第13集,https://v9.dious.cc/20230626/OpdyJLZO/index.m3u8
+雍正王朝 第14集,https://v9.dious.cc/20230626/7PpLakFg/index.m3u8
+雍正王朝 第15集,https://v9.dious.cc/20230626/TmkF4xnp/index.m3u8
+雍正王朝 第16集,https://v9.dious.cc/20230626/I9fdEUgJ/index.m3u8
+雍正王朝 第17集,https://v9.dious.cc/20230626/URyCHuXe/index.m3u8
+雍正王朝 第18集,https://v9.dious.cc/20230626/jnQo1Ln3/index.m3u8
+雍正王朝 第19集,https://v9.dious.cc/20230626/b8VRyGPD/index.m3u8
+雍正王朝 第20集,https://v9.dious.cc/20230626/40K9SZKW/index.m3u8
+雍正王朝 第21集,https://v9.dious.cc/20230626/47Z9Ksvd/index.m3u8
+雍正王朝 第22集,https://v9.dious.cc/20230626/eWDJ7Hz7/index.m3u8
+雍正王朝 第23集,https://v9.dious.cc/20230626/9mJ6uh4e/index.m3u8
+雍正王朝 第24集,https://v9.dious.cc/20230626/dwvW7aRb/index.m3u8
+雍正王朝 第25集,https://v9.dious.cc/20230626/NlR3MPBW/index.m3u8
+雍正王朝 第26集,https://v9.dious.cc/20230626/jYLiANYQ/index.m3u8
+雍正王朝 第27集,https://v9.dious.cc/20230626/iY2WQJdg/index.m3u8
+雍正王朝 第28集,https://v9.dious.cc/20230626/oY6974Gt/index.m3u8
+雍正王朝 第29集,https://v9.dious.cc/20230626/XDRt4jLg/index.m3u8
+雍正王朝 第30集,https://v9.dious.cc/20230626/lpEVSnOF/index.m3u8
+雍正王朝 第31集,https://v9.dious.cc/20230626/MRJZEbxJ/index.m3u8
+雍正王朝 第32集,https://v9.dious.cc/20230626/uNermOtI/index.m3u8
+雍正王朝 第33集,https://v9.dious.cc/20230626/ZkScadKV/index.m3u8
+雍正王朝 第34集,https://v9.dious.cc/20230626/VMsLUMKs/index.m3u8
+雍正王朝 第35集,https://v9.dious.cc/20230626/bKYaRGdv/index.m3u8
+雍正王朝 第36集,https://v9.dious.cc/20230626/sazEeooo/index.m3u8
+雍正王朝 第37集,https://v9.dious.cc/20230626/kyJJ15X8/index.m3u8
+雍正王朝 第38集,https://v9.dious.cc/20230626/BvwzdzDt/index.m3u8
+雍正王朝 第39集,https://v9.dious.cc/20230626/F6Llsj4c/index.m3u8
+雍正王朝 第40集,https://v9.dious.cc/20230626/7K2nhII0/index.m3u8
+雍正王朝 第41集,https://v9.dious.cc/20230626/F87BwRvh/index.m3u8
+雍正王朝 第42集,https://v9.dious.cc/20230626/JIJ4QQig/index.m3u8
+雍正王朝 第43集,https://v9.dious.cc/20230626/owu8N1RY/index.m3u8
+雍正王朝 第44集,https://v9.dious.cc/20230626/OPFzOxgo/index.m3u8
+
+产科医生 第01集,https://vip.lz-cdn.com/20221011/34857_32e7b94e/index.m3u8
+产科医生 第02集,https://vip.lz-cdn.com/20221011/34858_4c790e70/index.m3u8
+产科医生 第03集,https://vip.lz-cdn.com/20221011/34859_ae1ae6cb/index.m3u8
+产科医生 第04集,https://vip.lz-cdn.com/20221011/34860_2a509f4a/index.m3u8
+产科医生 第05集,https://vip.lz-cdn.com/20221011/34861_b7cfb561/index.m3u8
+产科医生 第06集,https://vip.lz-cdn.com/20221011/34862_3717bff1/index.m3u8
+产科医生 第07集,https://vip.lz-cdn.com/20221011/34863_7b8082db/index.m3u8
+产科医生 第08集,https://vip.lz-cdn.com/20221011/34864_443d5ad3/index.m3u8
+产科医生 第09ttps://vip.lz-cdn.com/20221011/34865_16f30f73/index.m3u8
+产科医生 第10集,https://vip.lz-cdn.com/20221011/34866_b87239a6/index.m3u8
+产科医生 第11集,https://vip.lz-cdn.com/20221011/34867_a6cd30fa/index.m3u8
+产科医生 第12集,https://vip.lz-cdn.com/20221011/34868_4dad5815/index.m3u8
+产科医生 第13集,https://vip.lz-cdn.com/20221011/34869_80629e3b/index.m3u8
+产科医生 第14集,https://vip.lz-cdn.com/20221011/34870_d1a67876/index.m3u8
+产科医生 第15集,https://vip.lz-cdn.com/20221011/34871_a9f3ea03/index.m3u8
+产科医生 第16集,https://vip.lz-cdn.com/20221011/34872_4b800892/index.m3u8
+产科医生 第17集,https://vip.lz-cdn.com/20221011/34873_01edd1d7/index.m3u8
+产科医生 第18集,https://vip.lz-cdn.com/20221011/34874_f9bd22d8/index.m3u8
+产科医生 第19集,https://vip.lz-cdn.com/20221011/34875_fda5e900/index.m3u8
+产科医生 第20集,https://vip.lz-cdn.com/20221011/34876_3ababb96/index.m3u8
+产科医生 第21集,https://vip.lz-cdn.com/20221011/34877_cfd18790/index.m3u82
+产科医生 第22集,https://vip.lz-cdn.com/20221011/34878_57bc3cbb/index.m3u8
+产科医生 第23集,https://vip.lz-cdn.com/20221011/34879_0361b7d3/index.m3u8
+产科医生 第24集,https://vip.lz-cdn.com/20221011/34880_12132e12/index.m3u8
+产科医生 第25集,https://vip.lz-cdn.com/20221011/34898_553beeb5/index.m3u8
+产科医生 第26集,https://vip.lz-cdn.com/20221011/34881_184dc9fb/index.m3u8
+产科医生 第27集,https://vip.lz-cdn.com/20221011/34882_b0b86e38/index.m3u8
+产科医生 第28集,https://vip.lz-cdn.com/20221011/34883_bf9cac14/index.m3u8
+产科医生 第29集,https://vip.lz-cdn.com/20221011/34884_7cde4f4c/index.m3u8
+产科医生 第30集,https://vip.lz-cdn.com/20221011/34885_a454a3f0/index.m3u8
+产科医生 第31集,https://vip.lz-cdn.com/20221011/34886_3fcf8b41/index.m3u8
+产科医生 第32集,https://vip.lz-cdn.com/20221011/34887_96dee2a5/index.m3u8
+产科医生 第33集,https://vip.lz-cdn.com/20221011/34888_f1dede36/index.m3u8
+产科医生 第34集,https://vip.lz-cdn.com/20221011/34889_c4166db9/index.m3u8
+产科医生 第35集,https://vip.lz-cdn.com/20221011/34890_df50c5fb/index.m3u8
+
+白色城堡 第01集,https://hd.lz-cdn18.com/20230531/3019_1efb9b46/index.m3u8
+白色城堡 第02集,https://hd.lz-cdn18.com/20230531/3018_0da7b06c/index.m3u8
+白色城堡 第03集,https://hd.lz-cdn18.com/20230531/3017_b9ebe9b2/index.m3u8
+白色城堡 第04集,https://hd.lz-cdn18.com/20230531/3016_167480e3/index.m3u8
+白色城堡 第05集,https://hd.lz-cdn18.com/20230531/3015_00ab88c7/index.m3u8
+白色城堡 第06集,https://hd.lz-cdn18.com/20230531/3014_b0fc9de0/index.m3u8
+白色城堡 第07集,https://vip.lz-cdn12.com/20230601/7745_9320251d/index.m3u8
+白色城堡 第08集,https://vip.lz-cdn12.com/20230601/7744_e73df995/index.m3u8
+白色城堡 第09集,https://hd.lz-cdn18.com/20230602/3087_65ca1783/index.m3u8
+白色城堡 第10集,https://hd.lz-cdn18.com/20230602/3086_9bdaea6a/index.m3u8
+白色城堡 第11集,https://vip.lz-cdn12.com/20230603/7792_b476aefd/index.m3u8
+白色城堡 第12集,https://hd.lz-cdn18.com/20230604/3121_7874653d/index.m3u8
+白色城堡 第13集,https://vip.lz-cdn12.com/20230605/7883_94fa1dbb/index.m3u8
+白色城堡 第14集,https://vip.lz-cdn12.com/20230605/7882_ae825045/index.m3u8
+白色城堡 第15集,https://hd.lz-cdn18.com/20230606/3181_7a9d44c7/index.m3u8
+白色城堡 第16集,https://hd.lz-cdn18.com/20230606/3180_d4ccf324/index.m3u8
+白色城堡 第17集,https://vip.lz-cdn12.com/20230607/7926_2bc3a31f/index.m3u8
+白色城堡 第18集,https://vip.lz-cdn12.com/20230607/7925_fafad3fe/index.m3u8
+白色城堡 第19集,https://hd.lz-cdn18.com/20230608/3239_e3c1dfa7/index.m3u8
+白色城堡 第20集,https://hd.lz-cdn18.com/20230608/3238_0663bbdd/index.m3u8
+
+暗夜行者 第01集,https://vip.lz-cdn.com/20220610/18051_d0a6db30/index.m3u8
+暗夜行者 第02集,https://vip.lz-cdn.com/20220610/18052_c5a06153/index.m3u8
+暗夜行者 第03集,https://vip.lz-cdn.com/20220610/18053_33930b6b/index.m3u8
+暗夜行者 第04集,https://vip.lz-cdn.com/20220610/18054_753d3324/index.m3u8
+暗夜行者 第05集,https://vip.lz-cdn.com/20220610/18055_b557e7b8/index.m3u8
+暗夜行者 第06集,https://vip.lz-cdn.com/20220610/18056_f2b9c5b7/index.m3u8
+暗夜行者 第07集,https://vip.lz-cdn.com/20220610/18057_fbd9dd96/index.m3u8
+暗夜行者 第08集,https://vip.lz-cdn.com/20220610/18058_c79a8d0c/index.m3u8
+暗夜行者 第09集,https://vip.lz-cdn.com/20220610/18059_ca25bde8/index.m3u8
+暗夜行者 第10集,https://vip.lz-cdn.com/20220610/18060_d0cbf271/index.m3u8
+暗夜行者 第11集,https://vip.lz-cdn.com/20220610/18061_0897d5a3/index.m3u8
+暗夜行者 第12集,https://vip.lz-cdn.com/20220610/18062_214b0f44/index.m3u8
+暗夜行者 第13集,https://vip.lz-cdn.com/20220610/18063_37b1409a/index.m3u8
+暗夜行者 第14集,https://vip.lz-cdn.com/20220610/18064_bd7a3e7a/index.m3u8
+暗夜行者 第15集,https://vip.lz-cdn.com/20220610/18065_6d93c650/index.m3u8
+
+日月神剑 第01集,https://s7.fsvod1.com/20220614/lByxn1xD/index.m3u8
+日月神剑 第02集,https://s7.fsvod1.com/20220614/PDYUUhNN/index.m3u8
+日月神剑 第03集,https://s7.fsvod1.com/20220614/qsZqbtJW/index.m3u8
+日月神剑 第04集,https://s7.fsvod1.com/20220614/vfkRsv1C/index.m3u8
+日月神剑 第05集,https://s7.fsvod1.com/20220614/e7Hyj2sO/index.m3u8
+日月神剑 第06集,https://s7.fsvod1.com/20220614/rEjWfDst/index.m3u8
+日月神剑 第07集,https://s7.fsvod1.com/20220614/YhBd0a5q/index.m3u8
+日月神剑 第08集,https://s7.fsvod1.com/20220614/zstSxxSL/index.m3u8
+日月神剑 第09集,https://s7.fsvod1.com/20220614/UEWpEeSO/index.m3u8
+日月神剑 第10集,https://s7.fsvod1.com/20220614/3n0XWH5z/index.m3u8
+日月神剑 第11集,https://s7.fsvod1.com/20220614/CEcSrkUL/index.m3u8
+日月神剑 第12集,https://s7.fsvod1.com/20220614/KoHdizqN/index.m3u8
+日月神剑 第13集,https://s7.fsvod1.com/20220614/FgY1VY8I/index.m3u8
+日月神剑 第14集,https://s7.fsvod1.com/20220614/VhJcXGs4/index.m3u8
+日月神剑 第15集,https://s7.fsvod1.com/20220614/qxSQ8Wjl/index.m3u8
+日月神剑 第16集,https://s7.fsvod1.com/20220614/BJrjJWjk/index.m3u8
+日月神剑 第17集,https://s7.fsvod1.com/20220614/hEoqkMcm/index.m3u8
+日月神剑 第18集,https://s7.fsvod1.com/20220614/OBlOQ9wN/index.m3u8
+日月神剑 第19集,https://s7.fsvod1.com/20220614/k213QC2x/index.m3u8
+日月神剑 第20集,https://s7.fsvod1.com/20220614/Ar3obD9w/index.m3u8
+
+碧血书香梦 第01集,https://vip.lz-cdn.com/20220626/20471_67df5a68/index.m3u8
+碧血书香梦 第02集,https://vip.lz-cdn.com/20220626/20472_bea438fe/index.m3u8
+碧血书香梦 第03集,https://vip.lz-cdn.com/20220626/20473_c65b9cf4/index.m3u8
+碧血书香梦 第04集,https://vip.lz-cdn.com/20220626/20474_9fa20db8/index.m3u8
+碧血书香梦 第05集,https://vip.lz-cdn.com/20220626/20475_64191929/index.m3u8
+碧血书香梦 第06集,https://vip.lz-cdn.com/20220626/20476_e0ea9646/index.m3u8
+碧血书香梦 第07集,https://vip.lz-cdn.com/20220626/20477_07050266/index.m3u8
+碧血书香梦 第08集,https://vip.lz-cdn.com/20220626/20478_28c60eae/index.m3u8
+碧血书香梦 第09集,https://vip.lz-cdn.com/20220626/20479_80481ad9/index.m3u8
+碧血书香梦 第10集,https://vip.lz-cdn.com/20220626/20480_a07205d3/index.m3u8
+碧血书香梦 第11集,https://vip.lz-cdn.com/20220626/20481_d3414fd3/index.m3u8
+碧血书香梦 第12集,https://vip.lz-cdn.com/20220626/20482_40392ff1/index.m3u8
+碧血书香梦 第13集,https://vip.lz-cdn.com/20220626/20483_848bd102/index.m3u8
+碧血书香梦 第14集,https://vip.lz-cdn.com/20220626/20484_9ac51be4/index.m3u8
+碧血书香梦 第15集,https://vip.lz-cdn.com/20220626/20485_4c907733/index.m3u8
+碧血书香梦 第16集,https://vip.lz-cdn.com/20220626/20486_84eae00d/index.m3u8
+碧血书香梦 第17集,https://vip.lz-cdn.com/20220626/20487_0b4ad68e/index.m3u8
+碧血书香梦 第18集,https://vip.lz-cdn.com/20220626/20488_ee0406de/index.m3u8
+碧血书香梦 第19集,https://vip.lz-cdn.com/20220626/20489_f7bd4b70/index.m3u8
+碧血书香梦 第20集,https://vip.lz-cdn.com/20220626/20490_1f093e0c/index.m3u8
+
+赤焰锦衣卫 第01集,https://vip.lz-cdn9.com/20221231/16778_e7666586/index.m3u8
+赤焰锦衣卫 第02集,https://vip.lz-cdn9.com/20221231/16779_38ed83a0/index.m3u8
+赤焰锦衣卫 第03集,https://vip.lz-cdn9.com/20221231/16780_7c9b6742/index.m3u8
+赤焰锦衣卫 第04集,https://vip.lz-cdn14.com/20230104/16759_4c65503b/index.m3u8
+赤焰锦衣卫 第05集,https://vip.lz-cdn14.com/20230111/17159_84083cec/index.m3u8
+赤焰锦衣卫 第06集,https://vip.lz-cdn14.com/20230118/17534_0e417c9c/index.m3u8
+赤焰锦衣卫 第07,https://vip.lz-cdn14.com/20230125/17928_a85638cb/index.m3u8
+赤焰锦衣卫 第08集,https://vip.lz-cdn14.com/20230201/18275_7fb89ebf/index.m3u8
+赤焰锦衣卫 第09集,https://vip.lz-cdn14.com/20230208/18619_4976ff19/index.m3u8
+赤焰锦衣卫 第10集,https://vip.lz-cdn14.com/20230215/18956_595bd54e/index.m3u8
+赤焰锦衣卫 第11集,https://vip.lz-cdn14.com/20230222/19324_274d9862/index.m3u8
+赤焰锦衣卫 第12集,https://vip.lz-cdn14.com/20230301/19690_06102866/index.m3u8
+赤焰锦衣卫 第13集,https://vip.lz-cdn14.com/20230308/20039_ec7149b8/index.m3u8
+赤焰锦衣卫 第14集,https://vip.lz-cdn14.com/20230315/20390_9982b9ee/index.m3u8
+赤焰锦衣卫 第15集,https://vip.lz-cdn14.com/20230322/20740_824f29cf/index.m3u8
+赤焰锦衣卫 第16集,https://vip.lz-cdn14.com/20230329/21085_b4de445a/index.m3u8
+赤焰锦衣卫 第17集,https://vip.lz-cdn14.com/20230405/21390_cca4dedc/index.m3u8
+赤焰锦衣卫 第18集,https://vip.lz-cdn14.com/20230412/21683_105bf43e/index.m3u8
+赤焰锦衣卫 第19集,https://vip.lz-cdn14.com/20230419/22006_68ec6a1e/index.m3u8
+赤焰锦衣卫 第20集,https://vip.lz-cdn14.com/20230426/22408_e50e0fc7/index.m3u8
+
+
+🎞️春晚点播,#genre#
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
 春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
@@ -6368,6 +6689,7 @@ CCTV14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+
 
 🐠斗鱼视频,#genre#
 粤语综艺,http://epg.112114.xyz/douyu/7919720
