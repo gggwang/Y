@@ -1998,17 +1998,10 @@ CCTV17,http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.
 浙江卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002045414da0bcca7fb08fd34c8a.m3u8?bitrate=2300&pt=5
 
 📡综合肆线,#genre#
-CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
-CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
-CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
-CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
-CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
-CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1
 CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2
-CCTV2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
+
 CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3
 CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4
 CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5
@@ -2021,9 +2014,21 @@ CCTV11,http://live.cooltv.top/tv/aishang.php?id=cctv11
 CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12
 CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13
 CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14
+
 CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15
-CCTV15,http://125.210.152.19:9120/live/hzgq-cctvmusicgq-h264.m3u8
+CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
+
 CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17
+CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
+CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
+CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
+CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
+
+CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
+CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
+CCTV15,http://125.210.152.19:9120/live/hzgq-cctvmusicgq-h264.m3u8
 怀旧剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8?key
 北京纪实,http://125.210.152.19:9120/live/hszx-bjjs-h264.m3u8
 江苏卫视 8M,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
@@ -2574,7 +2579,24 @@ CCTV13,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m
 📡数字壹线,#genre#
 4K现场,http://abcabc123.ml:4022/udp/239.49.8.222:6000
 
-📡备用贰线,#genre#
+
+
+📡备用壹线,#genre#
+
+CCTV1,http://1.183.141.194:8000/hls/1/index.m3u8
+CCTV2,http://1.183.141.194:8000/hls/2/index.m3u8
+CCTV3,http://1.183.141.194:8000/hls/3/index.m3u8
+CCTV4,http://1.183.141.194:8000/hls/4/index.m3u8
+CCTV5,http://1.183.141.194:8000/hls/5/index.m3u8
+CCTV6,http://1.183.141.194:8000/hls/6/index.m3u8
+CCTV7,http://1.183.141.194:8000/hls/7/index.m3u8
+CCTV8,http://1.183.141.194:8000/hls/8/index.m3u8
+CCTV9,http://1.183.141.194:8000/hls/9/index.m3u8
+CCTV12,http://1.183.141.194:8000/hls/12/index.m3u8
+CCTV13,http://1.183.141.194:8000/hls/13/index.m3u8
+CCTV14,http://1.183.141.194:8000/hls/14/index.m3u8
+CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
+
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
@@ -2595,23 +2617,6 @@ CCTV中央文化精品,http://111.20.40.160/PLTV/88888893/224/3221226981/index.m
 CCTV中央文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m3u8
 CCTV中央文化精品,http://111.20.40.166/PLTV/88888893/224/3221226981/index.m3u8
 CCTV中央文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m3u8
-
-📡备用叁线,#genre#
-CCTV1,http://1.183.141.194:8000/hls/1/index.m3u8
-CCTV2,http://1.183.141.194:8000/hls/2/index.m3u8
-CCTV3,http://1.183.141.194:8000/hls/3/index.m3u8
-CCTV4,http://1.183.141.194:8000/hls/4/index.m3u8
-CCTV5,http://1.183.141.194:8000/hls/5/index.m3u8
-CCTV6,http://1.183.141.194:8000/hls/6/index.m3u8
-CCTV7,http://1.183.141.194:8000/hls/7/index.m3u8
-CCTV8,http://1.183.141.194:8000/hls/8/index.m3u8
-CCTV9,http://1.183.141.194:8000/hls/9/index.m3u8
-CCTV12,http://1.183.141.194:8000/hls/12/index.m3u8
-CCTV13,http://1.183.141.194:8000/hls/13/index.m3u8
-CCTV14,http://1.183.141.194:8000/hls/14/index.m3u8
-CCTV15,http://1.183.141.194:8000/hls/15/index.m3u8
-
-📡备用肆线,#genre#
 CCTV1,http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
 CCTV8,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
 CCTV10,http://1.195.111.251:11190/tsfile/live/0010_1.m3u8
@@ -2645,6 +2650,7 @@ CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/322122697
 CCTV文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+
 CCTV1,http://jycb.f3322.net:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://jycb.f3322.net:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://jycb.f3322.net:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3970,72 +3976,7 @@ CCTV14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 林正英-第44部,https://50069.njc.svp.tencent-cloud.com/0bf2zyaayaaapaad3ssq2fqfbtwdbthaadaa.f10002.mp4
 
 🎞️剧集点播,#genre#
-薄冰 第02集,https://vip.lzcdn2.com/20230405/25072_085c6798/index.m3u8
-薄冰 第04集,https://vip.lzcdn2.com/20230405/25070_1b893654/index.m3u8
-薄冰 第06集,https://vip.lzcdn2.com/20230405/25068_c641363d/index.m3u8
-薄冰 第11集,https://vip.lzcdn2.com/20230409/25144_f648c487/index.m3u8
-薄冰 第14集,https://vip.lzcdn2.com/20230411/25178_b14b894a/index.m3u8
-薄冰 第15集,https://vip.lzcdn2.com/20230411/25177_f2b6609b/index.m3u8
-薄冰 第16集,https://hd.lz-cdn18.com/20230412/1823_dcd94ca6/index.m3u8
-薄冰 第17集,https://hd.lz-cdn18.com/20230412/1822_1f72f370/index.m3u8
-薄冰 第18集,https://vip.lzcdn2.com/20230413/25212_7680210d/index.m3u8
-薄冰 第19集,https://vip.lzcdn2.com/20230413/25211_2cd244ca/index.m3u8
-冰锋 第06集,https://vip.lz-cdn16.com/20230411/16351_c4e56e00/index.m3u8
-冰锋 第08集,https://vip.lz-cdn16.com/20230411/16357_7b95a517/index.m3u8
-冰锋 第10集,https://vip.lz-cdn16.com/20230411/16359_c7f374cd/index.m3u8
-冰锋 第14集,https://vip.lz-cdn16.com/20230411/16366_498de88e/index.m3u8
-冰锋 第20集,https://vip.lz-cdn16.com/20230411/16371_379b5cae/index.m3u8
-冰锋 第26集,https://vip.lz-cdn16.com/20230411/16375_241f12ec/index.m3u8
-冰锋 第28集,https://vip.lz-cdn16.com/20230411/16377_cd6595f2/index.m3u8
-产科医生 第02集,https://vip.lz-cdn.com/20221011/34858_4c790e70/index.m3u8
-产科医生 第03集,https://vip.lz-cdn.com/20221011/34859_ae1ae6cb/index.m3u8
-产科医生 第05集,https://vip.lz-cdn.com/20221011/34861_b7cfb561/index.m3u8
-产科医生 第13集,https://vip.lz-cdn.com/20221011/34869_80629e3b/index.m3u8
-产科医生 第14集,https://vip.lz-cdn.com/20221011/34870_d1a67876/index.m3u8
-产科医生 第16集,https://vip.lz-cdn.com/20221011/34872_4b800892/index.m3u8
-产科医生 第17集,https://vip.lz-cdn.com/20221011/34873_01edd1d7/index.m3u8
-产科医生 第19集,https://vip.lz-cdn.com/20221011/34875_fda5e900/index.m3u8
-产科医生 第23集,https://vip.lz-cdn.com/20221011/34879_0361b7d3/index.m3u8
-产科医生 第25集,https://vip.lz-cdn.com/20221011/34898_553beeb5/index.m3u8
-产科医生 第26集,https://vip.lz-cdn.com/20221011/34881_184dc9fb/index.m3u8
-产科医生 第27集,https://vip.lz-cdn.com/20221011/34882_b0b86e38/index.m3u8
-产科医生 第28集,https://vip.lz-cdn.com/20221011/34883_bf9cac14/index.m3u8
-产科医生 第29集,https://vip.lz-cdn.com/20221011/34884_7cde4f4c/index.m3u8
-产科医生 第31集,https://vip.lz-cdn.com/20221011/34886_3fcf8b41/index.m3u8
-产科医生 第33集,https://vip.lz-cdn.com/20221011/34888_f1dede36/index.m3u8
-产科医生 第34集,https://vip.lz-cdn.com/20221011/34889_c4166db9/index.m3u8
-产科医生 第35集,https://vip.lz-cdn.com/20221011/34890_df50c5fb/index.m3u8
-暗夜行者 第02集,https://vip.lz-cdn.com/20220610/18052_c5a06153/index.m3u8
-暗夜行者 第03集,https://vip.lz-cdn.com/20220610/18053_33930b6b/index.m3u8
-暗夜行者 第04集,https://vip.lz-cdn.com/20220610/18054_753d3324/index.m3u8
-暗夜行者 第05集,https://vip.lz-cdn.com/20220610/18055_b557e7b8/index.m3u8
-暗夜行者 第08集,https://vip.lz-cdn.com/20220610/18058_c79a8d0c/index.m3u8
-暗夜行者 第09集,https://vip.lz-cdn.com/20220610/18059_ca25bde8/index.m3u8
-暗夜行者 第10集,https://vip.lz-cdn.com/20220610/18060_d0cbf271/index.m3u8
-暗夜行者 第11集,https://vip.lz-cdn.com/20220610/18061_0897d5a3/index.m3u8
-暗夜行者 第13集,https://vip.lz-cdn.com/20220610/18063_37b1409a/index.m3u8
-暗夜行者 第14集,https://vip.lz-cdn.com/20220610/18064_bd7a3e7a/index.m3u8
-暗夜行者 第15集,https://vip.lz-cdn.com/20220610/18065_6d93c650/index.m3u8
-碧血书香梦 第01集,https://vip.lz-cdn.com/20220626/20471_67df5a68/index.m3u8
-碧血书香梦 第03集,https://vip.lz-cdn.com/20220626/20473_c65b9cf4/index.m3u8
-碧血书香梦 第06集,https://vip.lz-cdn.com/20220626/20476_e0ea9646/index.m3u8
-碧血书香梦 第07集,https://vip.lz-cdn.com/20220626/20477_07050266/index.m3u8
-碧血书香梦 第09集,https://vip.lz-cdn.com/20220626/20479_80481ad9/index.m3u8
-碧血书香梦 第15集,https://vip.lz-cdn.com/20220626/20485_4c907733/index.m3u8
-碧血书香梦 第16集,https://vip.lz-cdn.com/20220626/20486_84eae00d/index.m3u8
-赤焰锦衣卫 第02集,https://vip.lz-cdn9.com/20221231/16779_38ed83a0/index.m3u8
-赤焰锦衣卫 第04集,https://vip.lz-cdn14.com/20230104/16759_4c65503b/index.m3u8
-赤焰锦衣卫 第05集,https://vip.lz-cdn14.com/20230111/17159_84083cec/index.m3u8
-赤焰锦衣卫 第06集,https://vip.lz-cdn14.com/20230118/17534_0e417c9c/index.m3u8
-赤焰锦衣卫 第07,https://vip.lz-cdn14.com/20230125/17928_a85638cb/index.m3u8
-赤焰锦衣卫 第10集,https://vip.lz-cdn14.com/20230215/18956_595bd54e/index.m3u8
-赤焰锦衣卫 第11集,https://vip.lz-cdn14.com/20230222/19324_274d9862/index.m3u8
-赤焰锦衣卫 第12集,https://vip.lz-cdn14.com/20230301/19690_06102866/index.m3u8
-赤焰锦衣卫 第13集,https://vip.lz-cdn14.com/20230308/20039_ec7149b8/index.m3u8
-赤焰锦衣卫 第15集,https://vip.lz-cdn14.com/20230322/20740_824f29cf/index.m3u8
-赤焰锦衣卫 第16集,https://vip.lz-cdn14.com/20230329/21085_b4de445a/index.m3u8
-赤焰锦衣卫 第17集,https://vip.lz-cdn14.com/20230405/21390_cca4dedc/index.m3u8
-赤焰锦衣卫 第19集,https://vip.lz-cdn14.com/20230419/22006_68ec6a1e/index.m3u8
+
 
 🎞️春晚点播,#genre#
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
